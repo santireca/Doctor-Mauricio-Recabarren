@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <div className={darkMode ? "dark" : ""}>
       <NavBar/>
-        <section class="flex my-auto items-center justify-center h-screen home-dark bg-fixed bg-white dark:bg-gradient-to-t dark:from-slate-900 dark:to-indigo-950 ">
+        <section class="flex my-auto items-center justify-center min-h-screen home-dark bg-fixed bg-gradient-to-t from-blue-200 to-blue-400 dark:bg-gradient-to-t dark:from-slate-900 dark:to-indigo-950 ">
           <div className=" flex justify-center items-center gap-20 p-5 
           laptop:gap-10
           sm:flex-col-reverse sm:gap-5
@@ -22,15 +22,15 @@ export default function Home() {
             laptop:w-[400px]
             sm-m:w-[390px]
             sm:w-[320px]">
-              <h1 className=" text-6xl font-bold text-gray-800 
+              <h1 className=" text-6xl font-bold text-blue-900 
               laptop:text-4xl
               sm-m:text-4xl sm-m:text-center
               sm:text-3xl sm:text-center">Doctor Mauricio Recabarren</h1>
-              <p className=" text-lg my-10 text-gray-600
+              <p className=" text-lg my-10 text-gray-800
               laptop:text-base laptop:my-5
               sm-m:text-base sm-m:text-center sm-m:my-5
               sm:text-sm sm:text-center sm:my-5">Médico pediatra con más de 20 años de experiencia y actual director del hospital Fleming de Mendoza.</p>
-              <p className=" text-xl font-semibold
+              <p className=" text-xl font-semibold text-blue-900 
               laptop:text-lg
               sm-m:text-lg sm-m:text-center
               sm:text-base sm:text-center">Matrícula n°: 18281219</p>
