@@ -1,0 +1,176 @@
+{
+    "actividades": [
+        {
+            "id": "1",
+            "titulo": "Compartir es querer ",
+            "descripcion": "Establezca un lugar para jugar en la casa e invite a dos niños (hermano, hermana o amigo) a jugar con su niña. Es mejor incluir pocos niños al principio y tener varios juguetes del mismo tipo para que no tengan que compartir todo el tiempo. Los títeres o cubos son un buen juguete para esta actividad porque son propicios para que los niños jueguen juntos. Si es necesario, use un reloj con alarma para que cada niño tome turnos iguales con cada juguete.",
+            "edad": "30 a 36 meses",
+            "area": ["Socio-individual"],
+            "tipo": "principal"
+        },
+        {
+            "id": "2",
+            "titulo": "A aprender números",
+            "descripcion": "Hable del número 3. Lea historias que incluyan el número 3 (Los tres chivitos, Los tres cerditos, Los tres ositos). Incentive a su niña a que cuente hasta 3 usando grupos de 3 objetos similares (piedras, cartas, cubos [bloques]). Hable de que su niña tiene 3 años de edad. Después de que su niña comprenda la idea, pase a los números 4, 5 y así sucesivamente siempre que su niña se muestre interesada. ",
+            "edad": "30 a 36 meses",
+            "area": ["Comunicación"],
+            "tipo": "principal"
+        },
+        {
+            "id": "3",
+            "titulo": "Festín en el comedero",
+            "descripcion": "Haga un comedero para pájaros usando mantequilla de cacahuate y alimento para pájaros. Primero, busquen una piñita (de pino) o un pedazo de madera, úntenlo con mantequilla de cacahuate y cúbranlo con alimento para pájaros. Finalmente, cuélguenlo en un árbol o afuera de una ventana. Cuando su niño observe los pájaros que se acercan al comedero, pídale que le diga cuántos pájaros hay, de qué color son y de qué tamaño. ",
+            "edad": "30 a 36 meses",
+            "area": ["Motora fina", "Comunicación"],
+            "tipo": "principal"
+        },
+        {
+            "id": "4",
+            "titulo": "Similar y diferente ",
+            "descripcion": "Saque varios objetos que le resulten familiares a su niño (cepillo, abrigo, plátano, cuchara, libro). Pida a su niño que le muestre qué objetos son para comer y qué objetos se utilizan para salir a la calle. Ayúdele a poner los objetos en grupos que tengan una correspondencia, por ejemplo, “cosas que comemos” y “cosas para vestirse.” ",
+            "edad": "30 a 36 meses",
+            "area": ["Resolución de problemas"],
+            "tipo": "principal"
+        },
+        {
+            "id": "5",
+            "descripcion": "Cuéntele o léale una historia que le resulte familiar a su niño y haga frecuentes pausas para dejar fuera una palabra, pidiéndole a su niño que se la diga. Por ejemplo, Caperucita Roja dijo “Abuelita, qué ... más grandes tienes”.",
+            "edad": "30 a 36 meses",
+            "tipo": "extra",
+            "numero": 1
+        },
+        {
+            "id": "6",
+            "descripcion": "Enseñe a su niña a dar maromas (volteretas). Primero dé usted una maroma y después ayude a su niña a dar una. Finalmente, deje que lo intente sola. Asegúrese de que no haya muebles cerca con los que se pueda golpear. También podría colocar algunas almohadas en el suelo para asegurarse de que su niña no se lastime.",
+            "edad": "30 a 36 meses",
+            "tipo": "extra",
+            "numero": 2
+        },
+        {
+            "id": "7",
+            "descripcion": "Déle una taza a su niño y tome otra usted. Después ponga un trocito de fruta o cereal en la taza de su niño y dígale “uno para ti” y ponga otro en su taza y diga “uno para mí”. Sigan poniendo los trocitos, tomando turnos. Vacíe la taza de su niño y ayúdele a contar sus trocitos. Esta es una buena práctica para empezar a desarrollar las aptitudes matemáticas del niño.",
+            "edad": "30 a 36 meses",
+            "tipo": "extra",
+            "numero": 3
+        },
+        {
+            "id": "8",
+            "descripcion": "Coloque una manta vieja sobre una mesa para hacer una tienda de campaña o una casa. Déle una bolsa con comida a su niña para hacer un “picnic”. Pídale a su niña que ponga una almohada dentro de la casita para jugar a “acampar” y tomar una siesta. También le puede dar una linterna; éstas son muy divertidas para los niños.",
+            "edad": "30 a 36 meses",
+            "tipo": "extra",
+            "numero": 4
+        },
+        {
+            "id": "9",
+            "descripcion": "Tome un pedazo de papel que sea lo suficientemente grande como para que su niño se pueda acostar en él. Haga una línea alrededor del cuerpo de su niño para que quede marcado su contorno (silueta). No se olvide de incluir las manos y los pies. Habla de las partes del cuerpo y escriba las palabras en el papel. Deje que su niño coloree el dibujo. Cuelgue el cartel en el cuarto de su niño.",
+            "edad": "30 a 36 meses",
+            "tipo": "extra",
+            "numero": 5
+        },
+        {
+            "id": "10",
+            "descripcion": "A esta edad, a muchos niños les interesa crear arte de varias maneras diferentes. Haga un sello usando una papa; primero corte una papa por la mitad y talle con un cuchillo un diseño sencillo en el centro de la papa. Después, ponga pintura en un platito y enseñe a su niña a mojar la papa en la pintura y a imprimir el diseño en un trozo de papel.",
+            "edad": "30 a 36 meses",
+            "tipo": "extra",
+            "numero": 6
+        },
+        {
+            "id": "11",
+            "descripcion": "Ponga un poco de pintura (con base de agua - témpera) en un bote y añada agua para hacerla más líquida. Ponga unas gotas de esta mezcla en un papel y sople con una pajita (un popote) para mover la pintura a través del papel. También puede llenar un pomo viejo de desodorante con punta de bola (“roll-on”) con pintura diluida en agua, para que su niño pueda usarlo como si fuera un crayón y deslizarlo sobre el papel.",
+            "edad": "30 a 36 meses",
+            "tipo": "extra",
+            "numero": 7
+        },
+        {
+            "id": "8",
+            "descripcion": "Una buena actividad para aprender palabras que indican la ubicación de un objeto (sobre, debajo, a un lado, etc.) consiste en construir carreteras y puentes con cubos (bloques). Usted puede jugar con su niña, usando cochecitos de juguete para andar por las carreteras o puentes construidos. Lleven los coches por la carretera, por encima o por debajo de los puentes, por entre las casas, etc.",
+            "edad": "30 a 36 meses",
+            "tipo": "extra",
+            "numero": 8
+        },
+        {
+            "id": "13",
+            "descripcion": "Trace objetos sencillos con lápiz y papel. Se pueden usar tazas de diferentes tamaños, cubos, sus propias manos y las manos de su niño. También pueden usar marcadores de punta de fieltro o crayones de colores para hacer los trazos.",
+            "edad": "30 a 36 meses",
+            "tipo": "extra",
+            "numero": 9
+        },
+        {
+            "id": "14",
+            "descripcion": "Pídale a su niña que le ayude a poner la mesa. Primero, pídale que coloque los platos, luego las tazas, y después las servilletas al lado de cada plato. Esta actividad le permitirá a su niña aprender la correspondencia individual entre las cosas. Enséñele dónde se deben colocar los utensilios.",
+            "edad": "30 a 36 meses",
+            "tipo": "extra",
+            "numero": 10
+        },
+        {
+            "id": "15",
+            "descripcion": "Junte cajas vacías (de cereal, de comida preparada, o cartones de huevo) y ayude a su niño a crear su propio supermercado.",
+            "edad": "30 a 36 meses",
+            "tipo": "extra",
+            "numero": 11
+        },
+        {
+            "id": "16",
+            "descripcion": "Ayude a su niña a aprender nuevas palabras para describir objetos en las conversaciones cotidianas. Describa los colores, tamaños, y formas de los objetos (la taza azul, la pelota grande). Describa también cómo se mueven las cosas (los autos van rápido, la tortuga se mueve lentamente) y la sensación que producen (el helado es frío, la sopa está caliente).",
+            "edad": "30 a 36 meses",
+            "tipo": "extra",
+            "numero": 12
+        },
+        {
+            "id": "17",
+            "descripcion": "Haga sus propios rompecabezas con fotografías cortadas de revistas. Corte fotos que muestren personas de cuerpo completo y pídale a su niño que le ayude a pegar las fotografías en un cartón. Después, corte estas fotografías en tres pedazos, dividiendo la cabeza, el torso y las piernas. Haga los cortes en forma de curva para que sea más interesante volver a unir las partes.",
+            "edad": "30 a 36 meses",
+            "tipo": "extra",
+            "numero": 13
+        },
+        {
+            "id": "18",
+            "descripcion": "Ponga algunas gotas de pintura de diferentes colores en medio de una hoja de papel o en uno de sus lados. Doble el papel por la mitad. Deje que su niña abra el papel para ver el diseño que ha quedado.",
+            "edad": "30 a 36 meses",
+            "tipo": "extra",
+            "numero": 14
+        },
+        {
+            "id": "19",
+            "descripcion": "Un buen juego para los viajes en auto es emparejar las cartas de un juego de “Memoria”. Muéstrele una carta a su niño y pídale que encuentre una igual.",
+            "edad": "30 a 36 meses",
+            "tipo": "extra",
+            "numero": 15
+        },
+        {
+            "id": "20",
+            "descripcion": "Corte fotos de revistas y clasifíquelas en dos grupos, por ejemplo: grupos de perros, de comida, de juguetes, o de prendas de vestir. Tenga dos cajas listas y ponga una fotografía de un perro en una y una fotografía de comida en la otra. Haga que su niña ponga fotografías adicionales en la caja correspondiente, ayudándole así a aprender cosas sobre categorías",
+            "edad": "30 a 36 meses",
+            "tipo": "extra",
+            "numero": 16
+        },
+        {
+            "id": "21",
+            "descripcion": "Corte un plato de cartón en forma de raqueta y enseñe a su niño cómo usarla para golpear un globo. Vea cuánto tiempo puede mantener su niño el globo en el aire o cuántas veces puede golpearlo para devolvérselo. Esta actividad ayuda a desarrollar la coordinación de todo el cuerpo y la coordinación entre las manos y la vista. Supervise siempre cuidadosamente las actividades de su niño cuando juegue con globos",
+            "edad": "30 a 36 meses",
+            "tipo": "extra",
+            "numero": 17
+        },
+        {
+            "id": "22",
+            "descripcion": "Para mejorar la coordinación y el equilibrio, muestre a su niña “cómo caminan los osos” caminando en cuatro patas con las manos y los pies, asegurándose de mantener rectos los brazos y las piernas. Imite el “salto del conejo” agachándose y saltando hacia adelante.",
+            "edad": "30 a 36 meses",
+            "tipo": "extra",
+            "numero": 18
+        },
+        {
+            "id": "23",
+            "descripcion": "Muéstrele a su niño la “manera de caminar del elefante” y motívelo para que lo/la imite. Incorpore su cuerpo hacia delante poniendo los brazos enfrente con las manos enlazadas a manera de trompa de elefante. Deje que “esta trompa” se balancee libremente de un lado hacia el otro mientras da pasos lentos y pesados. Esta es una actividad excelente para hacerla escuchando música.",
+            "edad": "30 a 36 meses",
+            "tipo": "extra",
+            "numero": 19
+        },
+        {
+            "id": "24",
+            "descripcion": "Haga un cartel de las cosas favoritas de su niña usando fotografías de revistas viejas. Utilice tijeras y goma para pegar especiales para niños para que su niña pueda hacer esta actividad de forma independiente, pero segura.",
+            "edad": "30 a 36 meses",
+            "tipo": "extra",
+            "numero": 20
+        }
+    ]
+}

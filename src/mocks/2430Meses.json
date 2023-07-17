@@ -1,0 +1,176 @@
+{
+    "actividades": [
+        {
+            "id": "1",
+            "titulo": "Grande y pequeño",
+            "descripcion": "Busque cosas grandes y pequeñas que tenga por la casa (pelotas, bloques de madera o plástico, platos). Muéstreselos a su niño y descríbalos como (grande/pequeño). Pídale a su niño que le de una pelota grande, después que le de todas las pelotas grandes. Haga lo mismo con las pelotas pequeñas. Otro juego para distinguir entre grande y pequeño es que usted estire su cuerpo con los brazos por encima de la cabeza para verse muy grande y después se ponga en cuclillas para hacerse pequeño/a. ",
+            "edad": "24 a 30 meses",
+            "area": ["Resolución de problemas", "Comunicación"],
+            "tipo": "principal"
+        },
+        {
+            "id": "2",
+            "titulo": "Hagamos un collar",
+            "descripcion": "Envuelva uno de los extremos de un trozo de estambre con cinta adhesiva para que quede rígido como si fuera una aguja y haga un nudo grande en el otro extremo (que no tendrá cinta). Haga que su niña ensarte macarrones anchos y grandes, botones, cucharas, o cuentas en el trozo de estambre. También puede hacer un collar comestible con un cereal en forma de aritos como “Cheerios”.",
+            "edad": "24 a 30 meses",
+            "area": ["Motora fina"],
+            "tipo": "principal"
+        },
+        {
+            "id": "3",
+            "titulo": "Sube, sube y se va",
+            "descripcion": "Corte un plato de cartón firme para hacer una especie de raqueta y muéstrele a su niño cómo usarla para darle a un globo. Vea cuánto tiempo puede mantener el globo en el aire y cuántas veces se lo puede mandar de vuelta a usted. Esta actividad ayuda a desarrollar coordinación entre las manos y la vista. Siempre supervise a su niño cuando esté jugando con globos. ",
+            "edad": "24 a 30 meses",
+            "area": ["Motora gruesa"],
+            "tipo": "principal"
+        },
+        {
+            "id": "4",
+            "titulo": "Decisiones",
+            "descripcion": "Su niño empezará a ser capaz de tomar decisiones. Ayúdele a escoger la ropa que quiera ponerse cada día, dándole la opción de elegir entre dos pares de calcetines, dos camisas, etc. Dele opciones a la hora de comer o tomar un bocadillo (ofrézcale dos tipos de bebida, galletas, etc.).",
+            "edad": "24 a 30 meses",
+            "area": ["Socio-individual"],
+            "tipo": "principal"
+        },
+        {
+            "id": "5",
+            "descripcion": "Actúe o añada acciones a las canciones infantiles favoritas de su niña. Cualquier canción típica para esta edad resulta apropiada, como “Pin Pón”, “Un elefante se balanceaba” o “Era un gato grande.”",
+            "edad": "24 a 30 meses",
+            "tipo": "extra",
+            "numero": 1
+        },
+        {
+            "id": "6",
+            "descripcion": "Juegue al “tiro al blanco” usando una cubeta o caja grande y bolsitas de frijoles o pelotas. Cuente con su niño cuántas veces atinan en el blanco. Una pelota de estambre o unos calcetines enrollados también son apropiados para este juego.",
+            "edad": "24 a 30 meses",
+            "tipo": "extra",
+            "numero": 2
+        },
+        {
+            "id": "7",
+            "descripcion": "Envuelva uno de los extremos de un trozo de estambre con cinta adhesiva para que quede rígido como si fuera una aguja y haga un nudo grande en el otro extremo (que quede sin cinta). Haga que su niña ensarte macarrones anchos y grandes, botones, cucharas, o cuentas en el trozo de estambre. También puede hacer un collar comestible con un cereal en forma de aritos como “Cheerios”.",
+            "edad": "24 a 30 meses",
+            "tipo": "extra",
+            "numero": 3
+        },
+        {
+            "id": "8",
+            "descripcion": "A los niños les fascina hacer excursiones a esta edad. Una excursión especial puede ser ir a la biblioteca; el bibliotecario puede ayudarle a encontrar libros apropiados. Reserve un tiempo especial para la lectura (por ejemplo, antes de ir a dormir).",
+            "edad": "24 a 30 meses",
+            "tipo": "extra",
+            "numero": 4
+        },
+        {
+            "id": "9",
+            "descripcion": "Cuando vaya de paseo con su niña, salte con ella por encima de las grietas de la acera. Quizá tendrá que sujetar a su niña al principio para ayudarle a saltar.",
+            "edad": "24 a 30 meses",
+            "tipo": "extra",
+            "numero": 5
+        },
+        {
+            "id": "10",
+            "descripcion": "Tome tiempo para dibujar con su niño cuando quiera sacar el papel y los crayones. Dibuje formas grandes y deje que su niño las coloree. Tomen turnos para dibujar.",
+            "edad": "24 a 30 meses",
+            "tipo": "extra",
+            "numero": 6
+        },
+        {
+            "id": "11",
+            "descripcion": "Cuando su niña esté jugando en el arenero (cajón de arena), vierta un poco de agua sobre la arena. Enseñe a la niña cómo llenar un recipiente con arena mojada y cómo darle vuelta para hacer estructuras o pastelitos de arena.",
+            "edad": "24 a 30 meses",
+            "tipo": "extra",
+            "numero": 7
+        },
+        {
+            "id": "8",
+            "descripcion": "Ponga uno o dos catálogos viejos en el estante de libros de su niño. Un catálogo es un buen “libro” de fotos para nombrar objetos comunes.",
+            "edad": "24 a 30 meses",
+            "tipo": "extra",
+            "numero": 8
+        },
+        {
+            "id": "13",
+            "descripcion": "Proporciónele a su niña jabón, una toallita para lavarse y una vasija con agua. Deje que su niña lave un muñeco “sucio”, platos de juguete, o ropa de muñeco. Es una buena práctica para aprender a lavarse y secarse las manos.",
+            "edad": "24 a 30 meses",
+            "tipo": "extra",
+            "numero": 9
+        },
+        {
+            "id": "14",
+            "descripcion": "Haga instrumentos musicales con los huevos de Pascua de plástico o con el envase de plástico en él que vienen las medias de nylon de marca “L’eggs”. Llene los huevos con objetos ruidosos como arena, frijoles, o arroz y ciérrelos con cinta adhesiva. Haga 2 huevos para cada sonido. Ayude a su niña a emparejar sonidos y a acomodar los huevos en un cartón de huevos.",
+            "edad": "24 a 30 meses",
+            "tipo": "extra",
+            "numero": 10
+        },
+        {
+            "id": "15",
+            "descripcion": "Enseñe a su niño cómo hacer serpientes, pelotas, o panqueques de plastilina. Utilice un rodillo para aplanar la plastilina o moldes de galletas para hacer diferentes formas.",
+            "edad": "24 a 30 meses",
+            "tipo": "extra",
+            "numero": 11
+        },
+        {
+            "id": "16",
+            "descripcion": "A esta edad, a los niños les fascina jugar a imaginarse que son otras personas o cosas y también disfrutan cuando usted lo hace con ellos. Juegue con su niña a ser distintos animales como un perro o un gato. Haga sonidos y movimientos de animales y deje que su niña se imagine que ella es la dueña de la mascota y que la acaricie y alimente.",
+            "edad": "24 a 30 meses",
+            "tipo": "extra",
+            "numero": 12
+        },
+        {
+            "id": "17",
+            "descripcion": "Su niño empezará a ser capaz de tomar decisiones. Ayúdele a escoger la ropa que quiera ponerse cada día, dándole la opción de elegir entre dos pares de calcetines, dos camisas, etc. Déle opciones a la hora de comer o tomar un bocadillo (ofrézcale dos tipos de bebida, galletas, etc.).",
+            "edad": "24 a 30 meses",
+            "tipo": "extra",
+            "numero": 13
+        },
+        {
+            "id": "18",
+            "descripcion": "Ayude a su niña a desarrollar sus habilidades auditivas a través de la música. Ponga discos compactos o cassettes de música con ritmo lento y rápido. Las canciones que contienen una variedad de ritmos son excelentes. Enséñele a su niña cómo moverse de manera rápida o lenta al son de la música. (Usted podrá encontrar cassettes o discos compactos para niños en la biblioteca local).",
+            "edad": "24 a 30 meses",
+            "tipo": "extra",
+            "numero": 14
+        },
+        {
+            "id": "19",
+            "descripcion": "Las cajas tienen infinidad de usos para los niños. Una caja que sea lo suficientemente grande para que su niño se meta puede convertirse en un automóvil. También se pueden cortar aperturas a manera de ventanas y puerta en una caja de electrodomésticos para hacer una casita de juegos. Decorar las cajas con lápices de colores, marcadores, o pinturas puede ser una actividad divertida para hacer juntos.",
+            "edad": "24 a 30 meses",
+            "tipo": "extra",
+            "numero": 15
+        },
+        {
+            "id": "20",
+            "descripcion": "Juegue a “Seguir al líder” con su niña. Haga que ella copie lo que usted hace: Camine de puntitas, hacia atrás, despacio o rápido, dé pasos grandes y pasos pequeños. Después, cambien de rol y siga usted a su niña. ",
+            "edad": "24 a 30 meses",
+            "tipo": "extra",
+            "numero": 16
+        },
+        {
+            "id": "21",
+            "descripcion": "Al pintar con los dedos, experimente con varios medios. Puede utilizar crema batida sobre una superficie que se pueda lavar (una bandeja para galletas o una mesa con un acabado impermeable como la “formica”). Ayúdele a su niño a extender la crema y a hacer dibujos con sus dedos. Añada colorante para alimentos para darle algo de color.",
+            "edad": "24 a 30 meses",
+            "tipo": "extra",
+            "numero": 17
+        },
+        {
+            "id": "22",
+            "descripcion": "Las actividades corporales son una parte importante de la vida de los niños. Usted puede crear un juego usando una pelota y dándole instrucciones a su niña para que haga una serie de acciones, tales como “rodar la pelota, patearla, rebotarla, empujarla, lanzarla y agarrarla”. Túrnense a la hora de dar instrucciones.",
+            "edad": "24 a 30 meses",
+            "tipo": "extra",
+            "numero": 18
+        },
+        {
+            "id": "23",
+            "descripcion": "Haga una especie de carrera de obstáculos usando sillas, almohadas, o cajas de cartón grandes. Dígale a su niño que pase por encima, por debajo, en medio, por atrás o enfrente de los obstáculos. Ubique los obstáculos de manera que las piezas estén bien afianzadas y que no se vayan a caer y lastimar a su niño.",
+            "edad": "24 a 30 meses",
+            "tipo": "extra",
+            "numero": 19
+        },
+        {
+            "id": "24",
+            "descripcion": "Junte objetos grandes y pequeños (pelotas, cubos [bloques], platos) y muéstreselos a su niña, indicándole si son grandes o pequeños. Pídale a su niña que seleccione una pelota grande del grupo y después, todas las pelotas grandes. Haga lo mismo con los objetos pequeños. Otro juego de este tipo consiste en estirar los brazos hacia arriba para hacerse más alto y después ponerse en cuclillas para hacerse más pequeño.",
+            "edad": "24 a 30 meses",
+            "tipo": "extra",
+            "numero": 20
+        }
+    ]
+}

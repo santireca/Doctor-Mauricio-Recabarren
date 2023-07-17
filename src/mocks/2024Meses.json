@@ -1,0 +1,176 @@
+{
+    "actividades": [
+        {
+            "id": "1",
+            "titulo": "Grande y pequeño",
+            "descripcion": "Busque cosas grandes y pequeñas que tenga por la casa (pelotas, bloques de madera o plástico, platos). Muéstreselos a su niño y descríbalos como (grande/pequeño). Pídale a su niño que le de una pelota grande, después que le de todas las pelotas grandes. Haga lo mismo con las pelotas pequeñas. Otro juego para distinguir entre grande y pequeño es que usted estire su cuerpo con los brazos por encima de la cabeza para verse muy grande y después se ponga en cuclillas para hacerse pequeño/a. ",
+            "edad": "20 a 24 meses",
+            "area": ["Resolución de problemas", "Comunicación"],
+            "tipo": "principal"
+        },
+        {
+            "id": "2",
+            "titulo": "Hagamos un collar",
+            "descripcion": "Envuelva uno de los extremos de un trozo de estambre con cinta adhesiva para que quede rígido como si fuera una aguja y haga un nudo grande en el otro extremo (que no tendrá cinta). Haga que su niña ensarte macarrones anchos y grandes, botones, cucharas, o cuentas en el trozo de estambre. También puede hacer un collar comestible con un cereal en forma de aritos como “Cheerios”.",
+            "edad": "20 a 24 meses",
+            "area": ["Motora fina"],
+            "tipo": "principal"
+        },
+        {
+            "id": "3",
+            "titulo": "Sube, sube y se va",
+            "descripcion": "Corte un plato de cartón firme para hacer una especie de raqueta y muéstrele a su niño cómo usarla para darle a un globo. Vea cuánto tiempo puede mantener el globo en el aire y cuántas veces se lo puede mandar de vuelta a usted. Esta actividad ayuda a desarrollar coordinación entre las manos y la vista. Siempre supervise a su niño cuando esté jugando con globos. ",
+            "edad": "20 a 24 meses",
+            "area": ["Motora gruesa"],
+            "tipo": "principal"
+        },
+        {
+            "id": "4",
+            "titulo": "Decisiones",
+            "descripcion": "Su niño empezará a ser capaz de tomar decisiones. Ayúdele a escoger la ropa que quiera ponerse cada día, dándole la opción de elegir entre dos pares de calcetines, dos camisas, etc. Dele opciones a la hora de comer o tomar un bocadillo (ofrézcale dos tipos de bebida, galletas, etc.).",
+            "edad": "20 a 24 meses",
+            "area": ["Socio-individual"],
+            "tipo": "principal"
+        },
+        {
+            "id": "5",
+            "descripcion": "Los niños pequeños disfrutan de ver fotografías de cuando eran más pequeños. Cuando esté mirando fotos con su niño, cuéntele historias sencillas sobre él. Háblele de las cosas que estaban pasando cuando se tomó la foto.",
+            "edad": "20 a 24 meses",
+            "tipo": "extra",
+            "numero": 1
+        },
+        {
+            "id": "6",
+            "descripcion": "Corte una ranura rectangular en la tapa de una caja de zapatos. Deje que su niña inserte las cartas de un juego de baraja viejo por la ranura. También puede usar sobres de carta usados. La caja es un lugar fácil para guardar el “correo” de su niña. ",
+            "edad": "20 a 24 meses",
+            "tipo": "extra",
+            "numero": 2
+        },
+        {
+            "id": "7",
+            "descripcion": "Haga su propio juego de bolos usando vasos de plástico, envases de pelotas de tenis, o botellas de plástico vacías. Enseñe a su niño cómo hacer rodar la bola para derribar los bolos. Después, deje que su niño lo intente.",
+            "edad": "20 a 24 meses",
+            "tipo": "extra",
+            "numero": 3
+        },
+        {
+            "id": "8",
+            "descripcion": "Muchos artículos que se usan todos los días (calcetines, cucharas, zapatos, guantes) pueden ser útiles para enseñarle a su niña a hacer pares. Enséñele un objeto y pídale a la niña que encuentre otro objeto similar al suyo. Nombre los objetos mientras realiza el juego.",
+            "edad": "20 a 24 meses",
+            "tipo": "extra",
+            "numero": 4
+        },
+        {
+            "id": "9",
+            "descripcion": "Esconda un reloj con un “tictac” ruidoso o un radio de transistores a un volumen bajo en un cuarto, y haga que su niño lo busque. Después, deje que él esconda el objeto y usted debe buscarlo. Tomen turnos escondiendo y encontrando los objetos.",
+            "edad": "20 a 24 meses",
+            "tipo": "extra",
+            "numero": 5
+        },
+        {
+            "id": "10",
+            "descripcion": "Cántele a su niña una canción que hable de las diferentes partes del cuerpo, por ejemplo: “Hombros, pies, rodillas y la cabeza”. Después nombre otras partes del cuerpo como los dientes, las cejas, las uñas de los dedos, etc.",
+            "edad": "20 a 24 meses",
+            "tipo": "extra",
+            "numero": 6
+        },
+        {
+            "id": "11",
+            "descripcion": "Junte materiales para que su niño juegue a ser “pintor”. Déle una brocha grande y una cubeta u otro recipiente hondo para que “pinte” el exterior de la casa. Su niño disfrutará de “pintar” las paredes de la casa, una cerca, o la terraza.",
+            "edad": "20 a 24 meses",
+            "tipo": "extra",
+            "numero": 7
+        },
+        {
+            "id": "8",
+            "descripcion": "Ponga algunos objetos boca abajo (libros, tazas, zapatos) y observe si su niña se da cuenta de que están mal colocados y les da la vuelta para ponerlos en la posición correcta. Su niña empezará a disfrutar este tipo de juegos que son algo absurdos o bobos.",
+            "edad": "20 a 24 meses",
+            "tipo": "extra",
+            "numero": 8
+        },
+        {
+            "id": "13",
+            "descripcion": "Dé a su niño pequeño algunas de sus prendas de vestir viejas (sombreros, camisas, bufandas, bolsos, collares, gafas de sol) para que se las pruebe. Llévelo a un espejo para que se vea y pregúntele quién es la persona que está tan bien vestida.",
+            "edad": "20 a 24 meses",
+            "tipo": "extra",
+            "numero": 9
+        },
+        {
+            "id": "14",
+            "descripcion": "Use animales de granja de plástico o animales de peluche para contar la historia del “Viejo McDonald”. ¡Haga los ruidos de los animales para cantar la canción!",
+            "edad": "20 a 24 meses",
+            "tipo": "extra",
+            "numero": 10
+        },
+        {
+            "id": "15",
+            "descripcion": "Su niño disfrutará de hacer bloques de bolsas de papel de supermercado. Primero, llénenlas hasta la mitad con periódicos cortados en tiras o arrugado. Luego, doble la parte superior de la bolsa y ciérrela con cinta adhesiva. Cuando los bloques estén listos, su niño podrá ponerlos uno encima del otro para construir cosas. Evite que la boca entre en contacto con el papel periódico ya que la tinta puede ser tóxica. Lávense las manos después de esta actividad.",
+            "edad": "20 a 24 meses",
+            "tipo": "extra",
+            "numero": 11
+        },
+        {
+            "id": "16",
+            "descripcion": "Una buena actividad es ponerse diferentes tipos de ropa o disfrazarse. Esta actividad permite que los niños practiquen todas las acciones asociadas a vestirse, tales como ponerse y quitarse la camisa, los pantalones, los zapatos, y los calcetines, así como abrochar y desabrochar botones y subir y bajar cierres (cremalleras).",
+            "edad": "20 a 24 meses",
+            "tipo": "extra",
+            "numero": 12
+        },
+        {
+            "id": "17",
+            "descripcion": "Ponga recipientes pequeños, cucharas, tazas de plástico, embudos, una cubeta, palas y un colador en un arenero (cajón de arena). También ponga algunos autos y camiones de juguete para manejar en las carreteras de arena que su niño puede construir.",
+            "edad": "20 a 24 meses",
+            "tipo": "extra",
+            "numero": 13
+        },
+        {
+            "id": "18",
+            "descripcion": "Las rimas y canciones, en las que los niños siguen la letra con movimientos de las manos, cara o cuerpo, son populares a esta edad. Un ejemplo es “Witzi, bitzi araña (La araña pequeñita)”. Usted podría crear sus propias canciones usando el nombre de su niña en la canción.",
+            "edad": "20 a 24 meses",
+            "tipo": "extra",
+            "numero": 14
+        },
+        {
+            "id": "19",
+            "descripcion": "Haga su propia plastilina para jugar mezclando dos tazas de harina y 3/4 de taza de sal. Añada 1/2 taza de agua y 2 cucharadas de aceite de cocina. Amase bien hasta que desaparezcan los grumos, añada colorante comestible, y amase hasta que el color haya quedado completamente mezclado. A los niños les fascinará aplastar, estrujar, y golpear la masa.",
+            "edad": "20 a 24 meses",
+            "tipo": "extra",
+            "numero": 15
+        },
+        {
+            "id": "20",
+            "descripcion": "Jugar con o al lado de otros niños de la misma edad es divertido, pero normalmente requiere la supervisión de un adulto. Las idas al parque son una buena manera de empezar a practicar cómo relacionarse con otros niños.",
+            "edad": "20 a 24 meses",
+            "tipo": "extra",
+            "numero": 16
+        },
+        {
+            "id": "21",
+            "descripcion": "Juegue al juego de “muéstrame” con su niña cuando estén viendo libros juntas. Pida a su niña que encuentre un objeto en una ilustración. Después deje que su niña le pida que busque un objeto en una ilustración. Sigan tomando turnos y deje que la niña le de vuelta a las páginas.",
+            "edad": "20 a 24 meses",
+            "tipo": "extra",
+            "numero": 17
+        },
+        {
+            "id": "22",
+            "descripcion": "Añada varias pelotas de pingpong a los juguetes del baño de su niño. Muéstrele cómo las pelotas salen rápidamente por si solas a la superficie después de sujetarlas debajo del agua. A su niño le encantará este juego.",
+            "edad": "20 a 24 meses",
+            "tipo": "extra",
+            "numero": 18
+        },
+        {
+            "id": "23",
+            "descripcion": "Los botes de plástico transparente con tapas de presión o de rosca son excelentes para “esconder” un objeto o algo de comer que le guste a su niña. Déle un bote con un objeto o golosina adentro a su niña para que practique cómo desenroscar las tapas y así conseguir el objeto. Esté atento/a para ver si su niña le pide ayuda.",
+            "edad": "20 a 24 meses",
+            "tipo": "extra",
+            "numero": 19
+        },
+        {
+            "id": "24",
+            "descripcion": "Haga un libro pegando materiales de diferentes texturas en cada página. Los materiales como el papel de lija, las plumas, las bolas de algodón, la tela nylon, la seda, y los botones están asociados a palabras tales como áspero, suave, duro, y blando.",
+            "edad": "20 a 24 meses",
+            "tipo": "extra",
+            "numero": 20
+        }
+    ]
+}

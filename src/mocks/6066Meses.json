@@ -1,0 +1,180 @@
+{
+    "actividades": [
+        {
+            "id": "1",
+            "titulo": "Collages de naturaleza",
+            "descripcion": "Hagan un collage con objetos de la naturaleza. Vayan afuera a recoger hojas, piedritas, y palitos pequeños y péguenlos a una hoja de cartón o papel duro. También se puede usar una caja de cereal o de galletas para pegar los objetos del collage",
+            "edad": "60 a 66 meses",
+            "area": ["Motora fina", "Resolución de problemas"],
+            "tipo": "principal",
+            "link": "https://agesandstages.com/wp-content/uploads/2023/05/5-year_ASQ-3-Parent-Activities_Spanish.pdf"
+        },
+        {
+            "id": "2",
+            "titulo": "Las 20 preguntas",
+            "descripcion": "Jueguen a “las 20 preguntas”. Primero, piense usted en un animal sin decirle a su niño qué animal es. Deje que su niño le haga 20 preguntas, a las que usted tendrá que responder con “sí” o “no”, para tratar de adivinar cuál es el animal (puede ser que usted le tenga que ayudar a formular este tipo de pregunta). Después, deje que su niño piense en un animal y haga usted las 20 preguntas. Use también otras categorías tales como comida, juguetes, o personas.",
+            "edad": "60 a 66 meses",
+            "area": ["Comunicación", "Resolución de problemas"],
+            "tipo": "principal",
+            "link": "https://agesandstages.com/wp-content/uploads/2023/05/5-year_ASQ-3-Parent-Activities_Spanish.pdf"
+        },
+        {
+            "id": "3",
+            "titulo": "Caras y gestos ",
+            "descripcion": "Juegue al juego de “Caras y gestos”. Haga señas y gestos para representar situaciones imaginarias (pantomimas) y tome turnos con su niño adivinando qué acción es. Aquí hay algunas ideas para actuar: 1) comer una pizza caliente que tiene queso derritiéndose en hebras largas; 2) ganar una carrera; 3) encontrar una araña enorme; 4) caminar sobre barro espeso y pegajoso, y 5) dejar huellas al caminar descalzo sobre arena mojada.",
+            "edad": "60 a 66 meses",
+            "area": ["Socio-individual"],
+            "tipo": "principal",
+            "link": "https://agesandstages.com/wp-content/uploads/2023/05/5-year_ASQ-3-Parent-Activities_Spanish.pdf"
+        },
+        {
+            "id": "4",
+            "titulo": "Kickból",
+            "descripcion": "Organice juegos sencillos de pelota como “kickból” (es como el béisbol, pero con una pelota grande que se patea) con su niña. Tome una pelota grande de 8 a 12 pulgadas (20 a 30 centímetros) y hágala rodar lentamente hacia ella. Vea si ella puede darle una patada y correr hasta “primera base”. ",
+            "edad": "60 a 66 meses",
+            "area": ["Motora gruesa"],
+            "tipo": "principal",
+            "link": "https://agesandstages.com/wp-content/uploads/2023/05/5-year_ASQ-3-Parent-Activities_Spanish.pdf"
+        },
+        {
+            "id": "5",
+            "descripcion": "Hagan un collage con objetos de la naturaleza. Vayan afuera a recoger hojas, piedritas, y palitos pequeños y péguenlos a una hoja de cartón o papel duro. También se puede usar una caja de cereal o de galletas para pegar los objetos del collage. ",
+            "edad": "60 a 66 meses",
+            "tipo": "extra",
+            "numero": 1
+        },
+        {
+            "id": "6",
+            "descripcion": "Para practicar la escritura con su niña, escriba los nombres de amigos, juguetes, o parientes en una hoja. Puede ser que al principio su niña necesite trazar las letras de los nombres por encima. Asegúrese de escribir usando letra de molde grande.",
+            "edad": "60 a 66 meses",
+            "tipo": "extra",
+            "numero": 2
+        },
+        {
+            "id": "7",
+            "descripcion": "Incentive a su niño a hacer representaciones dramáticas. Ayúdelo a desempeñar los papeles de su rima infantil favorita, de un dibujo animado, o de un cuento. Para el vestuario puede usar prendas de vestir grandes y viejas.",
+            "edad": "60 a 66 meses",
+            "tipo": "extra",
+            "numero": 3
+        },
+        {
+            "id": "8",
+            "descripcion": "Organice juegos sencillos de  pelota como “kickból” (es como el béisbol, pero con una pelota grande que se patea) con su niña. Tome una pelota grande de 8 a 12 pulgadas (20 a 30 centímetros) y hágala rodar lentamente hacia ella. Vea si ella puede darle una patada y correr hasta “primera base”. ",
+            "edad": "60 a 66 meses",
+            "tipo": "extra",
+            "numero": 4
+        },
+        {
+            "id": "9",
+            "descripcion": "Cuando le lea cuentos a su niño, deje que él se imagine el final, o pídale que recuente sus historias favoritas con nuevos finales chistosos que él invente.",
+            "edad": "60 a 66 meses",
+            "tipo": "extra",
+            "numero": 5
+        },
+        {
+            "id": "10",
+            "descripcion": "Deje que su niña le ayude en la cocina haciendo tareas sencillas como machacar papas, hacer tortas (sándwiches) de queso, o servir cereal en un plato hondo. Después, pregúntele si le puede decir el orden de los pasos que usted siguió para cocinar y machacar las papas o para sacar el pan de la despensa y ponerle queso. Siempre vigile cuidadosamente a su niña cuando esté cerca de la estufa caliente. ",
+            "edad": "60 a 66 meses",
+            "tipo": "extra",
+            "numero": 6
+        },
+        {
+            "id": "11",
+            "descripcion": "Jueguen a “20 preguntas”. Primero, piense usted en un animal sin decirle a su niño qué animal es. Deje que su niño le haga 20 preguntas, a las que usted tiene que responder “sí” o “no”, para tratar de adivinar cuál es el animal. (Puede ser que usted le tenga que ayudar a formular este tipo de pregunta.) Después, deje que su niño piense en un animal y haga usted las 20 preguntas. Use también otras categorías tales como la comida, los juguetes, o las personas.",
+            "edad": "60 a 66 meses",
+            "tipo": "extra",
+            "numero": 7
+        },
+        {
+            "id": "8",
+            "descripcion": "Hagan un juego de “contar hasta diez” usando los números de las placas que ven cuando están viajando en coche o en autobús. Busquen una placa cuyo número de matrícula contenga el número 1. Después, busquen el 2, el 3, el 4 y así sucesivamente hasta llegar al 10. Cuando su niña pueda encontrar los números en orden del 1 al 10, jueguen contando hacia atrás, comenzando con el número 9, luego el 8, 7, 6 y así sucesivamente hasta llegar al 1.",
+            "edad": "60 a 66 meses",
+            "tipo": "extra",
+            "numero": 8
+        },
+        {
+            "id": "13",
+            "descripcion": "Juegue al juego de “Caras y gestos”. Haga señas y gestos para representar situaciones imaginarias (pantomimas) y tome turnos con su niño adivinando qué acción es. Aquí hay algunas ideas para actuar: 1) comer una pizza caliente que tiene queso derritiéndose en hebras largas; 2) ganar una carrera; 3) encontrar una araña enorme; 4) caminar sobre barro espeso y pegajoso, y 5) dejar huellas al caminar descalzo sobre arena mojada.",
+            "edad": "60 a 66 meses",
+            "tipo": "extra",
+            "numero": 9
+        },
+        {
+            "id": "14",
+            "descripcion": "Haga un juego sencillo de concentración con dos o tres pares de cartas iguales (dos reyes de corazones, por ejemplo) o haga sus propias cartas con fotografías o anuncios de revista idénticos. Empiece con dos o tres pares de cartas. Póngalas boca abajo y mézclelas. Deje que su niña voltee dos cartas para ver si hacen un par. Si no encuentra un par, vuelva a colocar las cartas boca abajo. Poco a poco puede ir aumentando el número de pares en el juego.",
+            "edad": "60 a 66 meses",
+            "tipo": "extra",
+            "numero": 10
+        },
+        {
+            "id": "15",
+            "descripcion": "Haga una pequeña carrera de obstáculos dentro o fuera de la casa. Use cajas de cartón para trepar y saltar, ponga palos de escoba entre unas sillas para jugar al “limbo” (pasar por debajo de ellos), y use almohadas para bloquear el camino. Deje que su niño le ayude a diseñar la carrera de obstáculos. Después de que su niño la recorra dos o tres veces para ver cómo se hace, pídale que lo haga lo más rápido que pueda. Luego pueden intentar pasar por los obstáculos brincando o saltando.",
+            "edad": "60 a 66 meses",
+            "tipo": "extra",
+            "numero": 11
+        },
+        {
+            "id": "16",
+            "descripcion": "Después de lavarse las manos, escriban letras y números con budín o en una capa fina de puré de papas extendida sobre una bandeja para hornear galletas o una tabla para cortar alimentos. ¡Se permite chuparse los dedos!",
+            "edad": "60 a 66 meses",
+            "tipo": "extra",
+            "numero": 12
+        },
+        {
+            "id": "17",
+            "descripcion": "Jueguen al “calcetín misterioso”. Ponga un artículo doméstico común adentro de un calcetín. Haga un nudo en la parte superior del calcetín. Pídale a su niña que lo palpe y que adivine lo que hay adentro. Después pídale a ella que ponga otro artículo dentro del calcetín y usted debe adivinar el contenido. Tome turnos con ella para adivinar lo que hay adentro.",
+            "edad": "60 a 66 meses",
+            "tipo": "extra",
+            "numero": 13
+        },
+        {
+            "id": "18",
+            "descripcion": "Invente rimas con los nombres de los colores. Tomen turnos haciendo rimar un color y una palabra: azul, baúl; rojo, flojo; amarillo, grillo. También pueden hacer rimas con nombres (María, mía; Enrique/meñique). Tomen turnos para hacer las rimas.",
+            "edad": "60 a 66 meses",
+            "tipo": "extra",
+            "numero": 14
+        },
+        {
+            "id": "19",
+            "descripcion": "Haga un cartel que diga “Yo puedo leer”. Recorte algunos nombres que su niño sepa leer—los nombres de restaurantes de comida rápida o los nombres de las cajas de cereal u otros alimentos. Puede escribirlos en trozos de papel (por ejemplo, use el nombre de su niño, sus parientes, o los amigos) y pegarlos al cartel. Añada más nombres al cartel a medida que su niño vaya aprendiendo a leer más nombres.",
+            "edad": "60 a 66 meses",
+            "tipo": "extra",
+            "numero": 15
+        },
+        {
+            "id": "20",
+            "descripcion": "Jueguen a “¿qué es lo que no pertenece aquí?” Deje que su niña encuentre la palabra que no debe estar en una lista de seis o siete palabras que Ud. diga. Podría ser que la palabra no rime, o que corresponda a una categoría diferente. Algunos ejemplos son: 1) ir, decir, vivir, perro; 2) dar, parar, tomar, caballo; 3) azul, gris, rojo, verde, amarillo, trece. Pídale a su niña que diga tres o cuatro palabras, y que mencione una que no pertenezca a la categoría común.",
+            "edad": "60 a 66 meses",
+            "tipo": "extra",
+            "numero": 16
+        },
+        {
+            "id": "21",
+            "descripcion": "Juegue al juego de “memoria” con su niño. Ponga cinco o seis objetos comunes que le sean familiares sobre una mesa. Pídale que cierre los ojos. Quite un objeto y revuelva los que quedan. Pregúntele a su niño cuál es el objeto que falta. Tomen turnos descubriendo cuál es el objeto que falta.",
+            "edad": "60 a 66 meses",
+            "tipo": "extra",
+            "numero": 17
+        },
+        {
+            "id": "22",
+            "descripcion": "Haga unos títeres usando palos de paleta, bolsas de papel, calcetines o cartones de huevo. Puede decorarlos con estambre, lápices, botones y papel de colores. Haga un escenario para los títeres poniendo una mesita pequeña (una mesa de centro o una mesa para jugar a las cartas) sobre su costado. Después, dígale a su niño que se esconda detrás de la mesa y que dé la función de títeres mientras que usted actúa como si fuera el público.",
+            "edad": "60 a 66 meses",
+            "tipo": "extra",
+            "numero": 18
+        },
+        {
+            "id": "23",
+            "descripcion": "Juegue a “¿dónde está el objeto escondido?”. Tome cuatro tazas o vasos opacos (que no sean transparentes). Mientras su niña lo/la está mirando, coloque un objeto pequeño (como una pasa o una pelota) debajo de una de las tazas y mueva todas las tazas de su posición original. Pídale a su niña que intente recordar qué taza tiene el objeto debajo. Tome turnos con su niña para esconder el objeto y para decir dónde está.",
+            "edad": "60 a 66 meses",
+            "tipo": "extra",
+            "numero": 19
+        },
+        {
+            "id": "24",
+            "descripcion": "Juegue al “sonido misterioso”. Seleccione algunos artículos domésticos que produzcan sonidos distintos como, por ejemplo, un reloj, una caja de cereal, una tapadera de metal (colocada sobre una cacerola), y una bolsa de papas fritas. Tápele los ojos a su niño con un pañuelo o una venda y pídale que intente adivinar el objeto que produjo el sonido. Tome turnos con su niño para jugar a este juego.",
+            "edad": "60 a 66 meses",
+            "tipo": "extra",
+            "numero": 20
+        }
+    ]
+}

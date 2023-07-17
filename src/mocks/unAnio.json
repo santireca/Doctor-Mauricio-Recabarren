@@ -1,0 +1,232 @@
+{
+    "actividades": [
+        {
+            "id": "1",
+            "titulo": "Hora de estar sobre la pancita",
+            "descripcion": "Acueste a su bebé bocabajo sobre una cobija en la alfombra, con la cabeza hacia un lado. Póngase en el piso a un lado de ella. Haga que pase el mismo lapso de tiempo con la cabeza hacia la derecha y después hacia la izquierda. Cada día aumente el tiempo que está boca abajo con su bebé hasta que ella pueda alzar la cabeza y extender sus brazos para levantar el tronco, facilitando que empiece a rodar y a gatear. No le deje recostar la cara sobre el piso, lo cual podría sofocarla.",
+            "edad": "1 a 4 meses",
+            "area": ["Motora gruesa"],
+            "tipo": "principal"
+        },
+        {
+            "id": "2",
+            "titulo": "Por todo el cuerpo",
+            "descripcion": "Acueste a su bebé boca arriba y tóquele los brazos y las piernas en sitios distintos. Haga pequeños sonidos como “cuchi-cuchi” cada vez que lo toque. Puede que su bebé sonría y que le mire la mano, anticipando que lo vuelva a tocar. Cada vez que haga un sonido, también puede nombrar la parte del cuerpo que está tocando.",
+            "edad": "1 a 4 meses",
+            "area": ["Comunicación", "Resolución de problemas"],
+            "tipo": "principal"
+        },
+        {
+            "id": "3",
+            "titulo": "Juego de la imitación",
+            "descripcion": "Sostenga a su bebé de manera que pueda verle la cara de cerca. Hágale caras divertidas, sonríale, saque la lengua y bostece. Espere unos segundos y observe si su bebé intenta imitarlo/la.",
+            "edad": "1 a 4 meses",
+            "area": ["Socio-individual"],
+            "tipo": "principal"
+        },
+        {
+            "id": "4",
+            "titulo": "Caminata por la naturaleza",
+            "descripcion": "Cuando haga buen tiempo, saque a su bebé a caminar por el parque o por la vecindad. Platíquele sobre todo lo que vea. Aunque no pueda entenderlo todo, a su bebé le encantará estar afuera y escuchar el sonido de su voz.",
+            "edad": "1 a 4 meses",
+            "area": ["Socio-individual", "Comunicación"],
+            "tipo": "principal"
+        },
+        {
+            "id": "5",
+            "descripcion": "Hable con su bebé en un tono bajo y suave al darle de comer, cambiarlo, o cuando lo cargue en brazos. Puede que no entienda todo lo que le dice, pero sí reconocerá su voz y se sentirá reconfortado al escucharla.",
+            "edad": "1 a 4 meses",
+            "tipo": "extra",
+            "numero": 1
+        },
+        {
+            "id": "6",
+            "descripcion": "Cuando vea que su bebé reaccione al sonido de su voz, festéjelo y hágale mimos. Háblele de nuevo para ver si le vuelve a responder.",
+            "edad": "1 a 4 meses",
+            "tipo": "extra",
+            "numero": 2
+        },
+        {
+            "id": "7",
+            "descripcion": "Cuando su bebé balbucee o gorjee, tome turnos con él para comunicarse. Converse con él hablando y respondiendo con sonidos sencillos que él pueda hacer.",
+            "edad": "1 a 4 meses",
+            "tipo": "extra",
+            "numero": 3
+        },
+        {
+            "id": "8",
+            "descripcion": "Cántele a su bebé (aunque crea que no sabe cantar). Repetir las canciones de cuna y las rimas infantiles le ayuda a escuchar y a aprender.",
+            "edad": "1 a 4 meses",
+            "tipo": "extra",
+            "numero": 4
+        },
+        {
+            "id": "9",
+            "descripcion": "Tome a su bebé en brazos o póngalo en el canguro o mochila porta-bebé, asegurándose de que esté bien sujetado. Baile con su bebé, haciendo movimientos suaves al ritmo de la música de la radio o de las melodías que usted le canta.",
+            "edad": "1 a 4 meses",
+            "tipo": "extra",
+            "numero": 5
+        },
+        {
+            "id": "10",
+            "descripcion": "Acueste a su bebé en su cuna. Ate o sostenga un espejo irrompible a un lado de la cuna donde él alcance a verlo. Empiece a hablarle, y dé unos golpecitos al espejo para que lo mire. El espejo será un estimulo visual. Después de un tiempo su bebé entenderá lo que es su reflejo.",
+            "edad": "1 a 4 meses",
+            "tipo": "extra",
+            "numero": 6
+        },
+        {
+            "id": "11",
+            "descripcion": "Meza a su bebé suavemente en sus brazos y cántele alguna canción de cuna. Entone la melodía y balancéelo ligeramente de lado a lado al compás de la canción.",
+            "edad": "1 a 4 meses",
+            "tipo": "extra",
+            "numero": 7
+        },
+        {
+            "id": "12",
+            "descripcion": "Póngase un títere de mano (botita o calcetín de bebé) en el dedo. Diga el nombre de su bebé mientras que mueve el dedo hacia arriba y hacia abajo. Vea si ella sigue el movimiento con la vista. Ahora, mueva su dedo como formando un círculo. Cada vez que su bebé logre seguir el movimiento del títere, intente hacer un movimiento diferente.",
+            "edad": "1 a 4 meses",
+            "tipo": "extra",
+            "numero": 8
+        },
+        {
+            "id": "13",
+            "descripcion": "Cuando está acostado boca arriba su bebé, sostenga un animalito de peluche de colores llamativos encima de su cabeza, donde él lo alcance a ver. Vea si lo mira mientras usted lo mueve lentamente de lado a lado.",
+            "edad": "1 a 4 meses",
+            "tipo": "extra",
+            "numero": 9
+        },
+        {
+            "id": "14",
+            "descripcion": "Ponga a su bebé en una posición que le permita tocarle los pies. Juegue delicadamente con sus pies y los dedos del pie, haciéndole cosquillitas. Dígale la rima infantil `Este cerdito fue al mercado` tocándole los dedos del pie uno por uno con cada frase.",
+            "edad": "1 a 4 meses",
+            "tipo": "extra",
+            "numero": 10
+        },
+        {
+            "id": "15",
+            "descripcion": "Recueste su bebé boca abajo sobre su brazo, poniéndole la mano en el pecho y sosteniéndole la cabeza y cuello con la otra mano para que se sienta segura. En esta posición, balancéela delicadamente de lado a lado. Cuando sea más grande, camine por la casa con ella en esta posición para que vea diferentes espacios.",
+            "edad": "1 a 4 meses",
+            "tipo": "extra",
+            "numero": 11
+        },
+        {
+            "id": "16",
+            "descripcion": "Siéntese con su bebé en su regazo y suene ligeramente una sonaja, primero de un lado de su cabeza y después del otro. Suene la sonaja lentamente al principio, luego más rápido. Su bebé seguirá el ruido con su mirada.",
+            "edad": "1 a 4 meses",
+            "tipo": "extra",
+            "numero": 12
+        },
+        {
+            "id": "17",
+            "descripcion": "Acueste a su bebé boca abajo sobre una cobija en la alfombra, con la cabeza hacia un lado. Póngase en el piso a un lado de ella. Haga que pase el mismo lapso de tiempo con la cabeza hacia la derecha y después hacia la izquierda. Cada día aumente el tiempo que está boca abajo con su bebé hasta que ella pueda alzar la cabeza y extender sus brazos para levantar el tronco, facilitando que empiece a rodar y a gatear. No le deje recostar la cara sobre el piso, lo cual podría sofocarla.",
+            "edad": "1 a 4 meses",
+            "tipo": "extra",
+            "numero": 13
+        },
+        {
+            "id": "18",
+            "descripcion": "Acueste a su bebé boca arriba y tóquele los brazos y las piernas en sitios distintos. Haga pequeños sonidos como `cuchi-cuchi` cada vez que lo toque. Puede que su bebé sonría y que le mire la mano, anticipando que lo vuelva a tocar. Cada vez que haga un sonido, también puede nombrar la parte del cuerpo que está tocando.",
+            "edad": "1 a 4 meses",
+            "tipo": "extra",
+            "numero": 14
+        },
+        {
+            "id": "19",
+            "descripcion": "Cuando haga buen tiempo, saque a su bebé a caminar por el parque o por la vecindad. Platíquele sobre todo lo que vea. Aunque no pueda entenderlo todo, a su bebé le encantará estar afuera y escuchar el sonido de su voz.",
+            "edad": "1 a 4 meses",
+            "tipo": "extra",
+            "numero": 15
+        },
+        {
+            "id": "20",
+            "descripcion": "Léale un libro sencillo a su bebé. Aunque no entienda la historia, disfrutará el rato estando junto a usted y escuchando su voz mientras lee.",
+            "edad": "1 a 4 meses",
+            "tipo": "extra",
+            "numero": 16
+        },
+        {
+            "id": "21",
+            "descripcion": "Con unas hojas de papel blanco y un marcador de color negro, dibuje varias imágenes que sean fáciles de reconocer en cada hoja. Al principio, use formas sencillas (una raya diagonal, el centro de un blanco, un patrón en forma de tablero de damas, un triángulo). Coloque los dibujos de manera que su bebé los pueda ver. Con cinta adhesiva, pegue los dibujos cerca de su cuna o de su sillita de bebé para el coche.",
+            "edad": "1 a 4 meses",
+            "tipo": "extra",
+            "numero": 17
+        },
+        {
+            "id": "22",
+            "descripcion": "Acueste a su bebé boca arriba sobre una superficie plana y blanda como una cama o una cobija. Frote sus manos y dedos ligeramente mientras que le canta `Palmas, palmitas` o cualquier otra canción infantil.",
+            "edad": "1 a 4 meses",
+            "tipo": "extra",
+            "numero": 18
+        },
+        {
+            "id": "23",
+            "descripcion": "Suene ligeramente una sonaja u otro juguete de bebé que produzca ruido. Colóquelo en la mano de su bebé. Vea si lo agarra, aunque sea por un momentito breve.",
+            "edad": "1 a 4 meses",
+            "tipo": "extra",
+            "numero": 19
+        },
+        {
+            "id": "24",
+            "descripcion": "Cargue en brazos a su bebé, o acuéstela en una superficie plana y blanda. Póngase cerca de ella para que lo/la alcance a ver. Estando así, cara a cara, haga movimientos pequeños (saque a lengua, déle una gran sonrisa). Puede ser que su bebé intente imitarle. Al principio, use movimientos pequeños, pero después, puede intentar este juego usando movimientos más exagerados con la cabeza, las manos, y los brazos. También podría intentar imitarla usted a ella.",
+            "edad": "1 a 4 meses",
+            "tipo": "extra",
+            "numero": 20
+        },
+        {
+            "id": "5",
+            "titulo": "¿Dónde está el nene?",
+            "descripcion": "Juegue a las escondidas (picabú) con las manos, un paño, o un pañal. Tápese la cara con el paño, y después deje que su bebé se esconda detrás de éste. Incentive a su bebé a jugar, pero si no puede llevarse el paño a la cara, retíreselo. Tomen turnos para esconderse.",
+            "edad": "4 a 8 meses",
+            "area": ["Socio-individual"]
+        },
+        {
+            "id": "6",
+            "titulo": "Tocándolo todo",
+            "descripcion": "Su bebé empezará a usar su dedo índice para tocar objetos con el dedo. Deje que su bebé toque sus juguetes, tales como un teléfono de plástico, con el dedo índice. También deje que le toque la cara y nómbrele la parte que le toca.",
+            "edad": "4 a 8 meses",
+            "area": ["Motora fina"]
+        },
+        {
+            "id": "7",
+            "titulo": "Alcanza el juguete",
+            "descripcion": "Estando su bebé acostado sobre la espalda, coloque un juguete de manera que pueda verlo, pero no tocarlo, o mueva un juguete dentro del campo visual de su bebé. Motívelo a rodar para llegar al juguete. ",
+            "edad": "4 a 8 meses",
+            "area": ["Motora gruesa", "Resolución de problemas"]
+        },
+        {
+            "id": "8",
+            "titulo": "Jalando papel",
+            "descripcion": "Llene una caja de pañuelos de papel con tiras de papel. Su bebé disfrutará mucho sacándolas de la caja. (No utilice papel de periódico ni revistas a colores ya que la tinta puede ser tóxica. No use nunca bolsas ni envoltorios de plástico). ",
+            "edad": "4 a 8 meses",
+            "area": ["Motora fina"]
+        },
+        {
+            "id": "9",
+            "titulo": "A hacer ruido",
+            "descripcion": "En esta etapa, a los bebés les sigue gustando hacer ruido. Haga sonajas atando con una cuerda los anillos que se usan en las tapas de los frascos para hacer conservas. O llene pequeñas botellas como frascos de medicamento (con tapas a prueba de niños) con objetos que hagan diferentes sonidos como bolitas (canicas), arroz, sal, etc. Asegúrese de apretar firmemente las tapas.",
+            "edad": "8 a 12 meses",
+            "area": ["Socio-individual"]
+        },
+        {
+            "id": "10",
+            "titulo": "Pista de obstáculos",
+            "descripcion": "Haga una especie de carrera de obstáculos usando cajas o muebles de manera que su bebé pueda meterse, subirse, pasar por encima, por debajo o por en medio de ellos. Una caja grande puede ser un sitio magnífico para sentarse y jugar.",
+            "edad": "8 a 12 meses",
+            "area": ["Motora gruesa"]
+        },
+        {
+            "id": "11",
+            "titulo": "Adentro y afuera",
+            "descripcion": "Dele a su bebé recipientes con tapas y con diferentes compartimentos que tengan cubos u otros juguetes pequeños. Deje que su bebé quite las tapas y que vuelque o saque los juguetes. Después, enséñele como volver a poner las cosas en su sitio. Este juego le enseñará a la bebé a poner o a acomodar objetos en el lugar donde ella desea. ",
+            "edad": "8 a 12 meses",
+            "area": ["Resolución de problemas"]
+        },
+        {
+            "id": "12",
+            "titulo": "Hacer planes en voz alta",
+            "descripcion": "Establezca una rutina en casa para comer, dormir, cambiar los pañales y jugar. Hable con su bebé sobre la rutina y dígale qué actividad harán a continuación. Esto le ayudará a sentirse segura. ",
+            "edad": "8 a 12 meses",
+            "area": ["Comunicación", "Socio-individual"]
+        }
+    ]
+}

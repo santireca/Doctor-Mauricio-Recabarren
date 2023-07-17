@@ -1,0 +1,177 @@
+{
+    "actividades": [
+        {
+            "id": "1",
+            "titulo": "A hacer ruido",
+            "descripcion": "En esta etapa, a los bebés les sigue gustando hacer ruido. Haga sonajas atando con una cuerda los anillos que se usan en las tapas de los frascos para hacer conservas. O llene pequeñas botellas como frascos de medicamento (con tapas a prueba de niños) con objetos que hagan diferentes sonidos como bolitas (canicas), arroz, sal, etc. Asegúrese de apretar firmemente las tapas.",
+            "edad": "8 a 12 meses",
+            "area": ["Socio-individual"],
+            "tipo": "principal"
+        },
+        {
+            "id": "2",
+            "titulo": "Pista de obstáculos",
+            "descripcion": "Haga una especie de carrera de obstáculos usando cajas o muebles de manera que su bebé pueda meterse, subirse, pasar por encima, por debajo o por en medio de ellos. Una caja grande puede ser un sitio magnífico para sentarse y jugar.",
+            "edad": "8 a 12 meses",
+            "area": ["Motora gruesa"],
+            "tipo": "principal"
+        },
+        {
+            "id": "3",
+            "titulo": "Adentro y afuera",
+            "descripcion": "Dele a su bebé recipientes con tapas y con diferentes compartimentos que tengan cubos u otros juguetes pequeños. Deje que su bebé quite las tapas y que vuelque o saque los juguetes. Después, enséñele como volver a poner las cosas en su sitio. Este juego le enseñará a la bebé a poner o a acomodar objetos en el lugar donde ella desea. ",
+            "edad": "8 a 12 meses",
+            "area": ["Resolución de problemas"],
+            "tipo": "principal"
+        },
+        {
+            "id": "4",
+            "titulo": "Hacer planes en voz alta",
+            "descripcion": "Establezca una rutina en casa para comer, dormir, cambiar los pañales y jugar. Hable con su bebé sobre la rutina y dígale qué actividad harán a continuación. Esto le ayudará a sentirse segura. ",
+            "edad": "8 a 12 meses",
+            "area": ["Comunicación", "Socio-individual"],
+            "tipo": "principal"
+        },
+        {
+            "id": "5",
+            "descripcion": "Deje que su bebé coma, sin ayuda Esto le permitirá aprender a tomar objetos pequeños entre los dedos (como cereal o arvejas cocidas) y también le permitirá sentir texturas nuevas en las manos y en la boca. En poco tiempo, su bebé podrá hacer solito toda una comida usando los dedos.",
+            "edad": "8 a 12 meses",
+            "tipo": "extra",
+            "numero": 1
+        },
+        {
+            "id": "6",
+            "descripcion": "A su bebé le gustará hacer ruido al golpear un objeto con otro. Déle a su bebé cubos (bloques) para golpear, una sonaja para agitar, o cucharas de madera para golpear con recipientes de la cocina. Muéstrele a su bebé cómo golpear un objeto con el otro.",
+            "edad": "8 a 12 meses",
+            "tipo": "extra",
+            "numero": 2
+        },
+        {
+            "id": "7",
+            "descripcion": "Un juego divertido es meter y sacar objetos de un recipiente. Déle a su bebé recipientes de plástico con pelotitas o cubos grandes para que practique esta actividad. También le podría gustar meter y sacar calcetines del cajón o meter y sacar envases o cajas pequeñas (como de gelatina, de atún o de sopa) de la despensa.",
+            "edad": "8 a 12 meses",
+            "tipo": "extra",
+            "numero": 3
+        },
+        {
+            "id": "8",
+            "descripcion": "Los espejos son emocionantes a esta edad. Ponga a su bebé enfrente de un espejo y deje que lo toque y que señale su reflejo. Sonrían juntos y hagan caras divertidas en el espejo.",
+            "edad": "8 a 12 meses",
+            "tipo": "extra",
+            "numero": 4
+        },
+        {
+            "id": "9",
+            "descripcion": "Su bebé empezará a usar su dedo índice para tocar objetos con el dedo. Deje que su bebé toque sus juguetes, tales como un teléfono de plástico, con el dedo índice. También deje que le toque la cara y nómbrele la parte que le toca.",
+            "edad": "8 a 12 meses",
+            "tipo": "extra",
+            "numero": 5
+        },
+        {
+            "id": "10",
+            "descripcion": "Ponga juguetes en un sofá o mesa sólida para que su bebé pueda practicar cómo ponerse de pie mientras juega con los juguetes.",
+            "edad": "8 a 12 meses",
+            "tipo": "extra",
+            "numero": 6
+        },
+        {
+            "id": "11",
+            "descripcion": "Ponga una caja grande con la apertura hacia un lado para que su bebé pueda entrar y salir gateando. Quédese cerca e in- diquele a su bebé la acción que está haciendo. `Entraste y ahora has salido`.",
+            "edad": "8 a 12 meses",
+            "tipo": "extra",
+            "numero": 7
+        },
+        {
+            "id": "12",
+            "descripcion": "Léale libros para bebés o revistas con imágenes coloridas a su bebé. Indíquele las imágenes con el dedo y cuéntele lo que representan. Deje que su bebé toque las imágenes del libro.",
+            "edad": "8 a 12 meses",
+            "tipo": "extra",
+            "numero": 8
+        },
+        {
+            "id": "13",
+            "descripcion": "Juegue a esconder y buscar objetos. Deje que su bebé vea cómo esconde un objeto debajo de una manta, pañal, o almohada. Si su bebé no descubre el objeto, cubra sólo una parte del objeto. Ayude a su bebé a encontrar el objeto.",
+            "edad": "8 a 12 meses",
+            "tipo": "extra",
+            "numero": 9
+        },
+        {
+            "id": "14",
+            "descripcion": "Juegue a la pelota con su bebé. Ruede una pelota hacia su bebé y ayúdele o pida a otra persona que le ayude al bebé a rodar la pelota de vuelta. Es posible que su bebé le lance la pelota; por esta razón, las pelotas de playa, o pelotas de espuma son excelentes para este juego.",
+            "edad": "8 a 12 meses",
+            "tipo": "extra",
+            "numero": 10
+        },
+        {
+            "id": "15",
+            "descripcion": "Encienda la radio o el equipo de música. Sujete a su bebé con las manos alrededor de su cintura y deje que dé saltitos y baile. Si su bebé puede permanecer de pie con poco apoyo, tome sus manos y baile como pareja.",
+            "edad": "8 a 12 meses",
+            "tipo": "extra",
+            "numero": 11
+        },
+        {
+            "id": "16",
+            "descripcion": "Inicie juegos como `las palmaditas` y otros juegos de imitación. Cuando su bebé imite los movimientos o sonidos que hace usted, felicítelo y hágale mimos. A los bebés les encanta repetir los mismos juegos una y otra vez.",
+            "edad": "8 a 12 meses",
+            "tipo": "extra",
+            "numero": 12
+        },
+        {
+            "id": "17",
+            "descripcion": "Mientras la baña, deje que su bebé juegue con tazas para medir, tazas con asas, coladeras, esponjas, y pelotas que flotan en la tina. La hora de bañarse es un momento excelente para aprender.",
+            "edad": "8 a 12 meses",
+            "tipo": "extra",
+            "numero": 13
+        },
+        {
+            "id": "18",
+            "descripcion": "Juegue a las palmaditas con su bebé. Ayúdele a juntar las palmas y aplaudir. Espere y vea si su bebé quiere que usted empiece el juego otra vez. Pruebe el mismo juego con cubos o cucharas para dar palmadas y golpear.",
+            "edad": "8 a 12 meses",
+            "tipo": "extra",
+            "numero": 14
+        },
+        {
+            "id": "19",
+            "descripcion": "Su bebé empezará a jugar haciendo diferentes sonidos como `ma-ma` o `pa-pa`. Imite los sonidos que haga su bebé. Agregue un sonido nuevo para ver si su bebé intenta copiarlo. Disfrute de estos primeros intentos de hablar del bebé.",
+            "edad": "8 a 12 meses",
+            "tipo": "extra",
+            "numero": 15
+        },
+        {
+            "id": "20",
+            "descripcion": "Haga un rompecabezas sencillo para su bebé poniendo cubos o pelotas de ping-pong adentro de moldes para hacer panecillos o colocándolos en los compartimentos de un cartón de huevo.",
+            "edad": "8 a 12 meses",
+            "tipo": "extra",
+            "numero": 16
+        },
+        {
+            "id": "21",
+            "descripcion": "Usted puede hacer un juguete sencillo cortando un agujero redondo en la tapa de plástico de una lata de café. Déle a su bebé ganchos para tender ropa o pelotas de ping-pong para que las meta por el agujero de la tapa.",
+            "edad": "8 a 12 meses",
+            "tipo": "extra",
+            "numero": 17
+        },
+        {
+            "id": "22",
+            "descripcion": "Diga `Hola` y salude con la mano cuando entre en un cuarto con su bebé. Incentive a su bebé a imitarlo/la y ayúdela a saludar con la mano a otras per- sonas. Saludar con la mano para decir `hola` y `adiós` es uno de los primeros gestos que hacen los bebés.",
+            "edad": "8 a 12 meses",
+            "tipo": "extra",
+            "numero": 18
+        },
+        {
+            "id": "23",
+            "descripcion": "Déle opciones a su bebé para que aprenda a escoger. Ofrézcale dos juegos o alimentos y vea cuál elige. Enséñele cómo señalar el objeto que elige o cómo moverse hacia él. ¡Los bebés definitivamente tienen sus preferencias!",
+            "edad": "8 a 12 meses",
+            "tipo": "extra",
+            "numero": 19
+        },
+        {
+            "id": "24",
+            "descripcion": "La gente y los lugares nuevos son buenas experiencias para su bebé, pero pueden asustarla. Deje que vea, escuche, y se mueva a su propio ritmo en un espacio nuevo o con gente nueva. Vaya despacio, su bebé le dirá cuándo esté lista para más estímulos.",
+            "edad": "8 a 12 meses",
+            "tipo": "extra",
+            "numero": 20
+        }
+        
+    ]
+}

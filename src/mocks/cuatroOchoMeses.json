@@ -1,0 +1,176 @@
+{
+    "actividades": [
+        {
+            "id": "5",
+            "titulo": "¿Dónde está el nene?",
+            "descripcion": "Juegue a las escondidas (picabú) con las manos, un paño, o un pañal. Tápese la cara con el paño, y después deje que su bebé se esconda detrás de éste. Incentive a su bebé a jugar, pero si no puede llevarse el paño a la cara, retíreselo. Tomen turnos para esconderse.",
+            "edad": "4 a 8 meses",
+            "area": ["Socio-individual"],
+            "tipo": "principal"
+        },
+        {
+            "id": "6",
+            "titulo": "Tocándolo todo",
+            "descripcion": "Su bebé empezará a usar su dedo índice para tocar objetos con el dedo. Deje que su bebé toque sus juguetes, tales como un teléfono de plástico, con el dedo índice. También deje que le toque la cara y nómbrele la parte que le toca.",
+            "edad": "4 a 8 meses",
+            "area": ["Motora fina"],
+            "tipo": "principal"
+        },
+        {
+            "id": "7",
+            "titulo": "Alcanza el juguete",
+            "descripcion": "Estando su bebé acostado sobre la espalda, coloque un juguete de manera que pueda verlo, pero no tocarlo, o mueva un juguete dentro del campo visual de su bebé. Motívelo a rodar para llegar al juguete. ",
+            "edad": "4 a 8 meses",
+            "area": ["Motora gruesa", "Resolución de problemas"],
+            "tipo": "principal"
+        },
+        {
+            "id": "8",
+            "titulo": "Jalando papel",
+            "descripcion": "Llene una caja de pañuelos de papel con tiras de papel. Su bebé disfrutará mucho sacándolas de la caja. (No utilice papel de periódico ni revistas a colores ya que la tinta puede ser tóxica. No use nunca bolsas ni envoltorios de plástico). ",
+            "edad": "4 a 8 meses",
+            "area": ["Motora fina"],
+            "tipo": "principal"
+        },
+        {
+            "id": "5",
+            "descripcion": "Ponga un juguete de cuerda al lado o detrás de su bebé. Preste atención para ver si su bebé intenta identificar de dónde proviene el sonido.",
+            "edad": "4 a 8 meses",
+            "tipo": "extra",
+            "numero": 1
+        },
+        {
+            "id": "6",
+            "descripcion": "Déle a su bebé una cuchara para que la agarre y la muerda. Una cuchara es fácil de sujetar y provoca una sensación agradable en la boca. También es excelente para hacer ruido, intentar golpear cosas, y para dejarla caer",
+            "edad": "4 a 8 meses",
+            "tipo": "extra",
+            "numero": 2
+        },
+        {
+            "id": "7",
+            "descripcion": "Siéntese en el suelo y ponga a su bebé sentada entre sus piernas. Si su bebé necesita apoyo, utilice sus piernas o su pecho para acomodarla bien. Esta es una buena posición para jugar con ella e incentivarla a que se siente de forma independiente.",
+            "edad": "4 a 8 meses",
+            "tipo": "extra",
+            "numero": 3
+        },
+        {
+            "id": "8",
+            "descripcion": "Frote con cuidado el cuerpo de su bebé con un paño suave o con una toalla de papel. Dígale en voz alta qué textura tienen estos objetos (suave, áspero, resbaladizo). También puede untar un poco de crema en la piel de su bebé e indicarle la textura de esta.",
+            "edad": "4 a 8 meses",
+            "tipo": "extra",
+            "numero": 4
+        },
+        {
+            "id": "9",
+            "descripcion": "Deje que su bebé se mire en un espejo. Ponga un espejo irrompible al costado de la cuna de su bebé o en la mesa de cambiar pañales para que se pueda ver. Véase usted en el espejo al mismo tiempo que su bebé, sonría y hágale señales con la mano.",
+            "edad": "4 a 8 meses",
+            "tipo": "extra",
+            "numero": 5
+        },
+        {
+            "id": "10",
+            "descripcion": "Los objetos caseros comunes como las cucharas y las tazas de plástico para medir pueden ser buenos juguetes para su bebé, ya que su forma y el ruido que hacen son interesantes. Agite u oscile ligeramente unas cucharas para medir en un lugar dónde su bebé pueda intentar alcanzarlas o darles pataditas. Deje también que su bebé las toque y que las agite.",
+            "edad": "4 a 8 meses",
+            "tipo": "extra",
+            "numero": 6
+        },
+        {
+            "id": "11",
+            "descripcion": "Juegue con la voz. Háblele a su bebé en tonos altos y bajos, haga un chasquido con la lengua o susurre. Después escuche los sonidos que su bebé hace y repítalos. Coloque a su bebé de manera que esté enfrente de usted su bebé lo/la mirará cuando usted haga sonidos.",
+            "edad": "4 a 8 meses",
+            "tipo": "extra",
+            "numero": 7
+        },
+        {
+            "id": "8",
+            "descripcion": "Llene una botella pequeña de plástico (frasco de medicina con tapa a prueba de niños) con frijoles o arroz. Deje que su bebé la agite para hacer ruido.",
+            "edad": "4 a 8 meses",
+            "tipo": "extra",
+            "numero": 8
+        },
+        {
+            "id": "13",
+            "descripcion": "Haga otra sonaja usando cascabeles dentro de una botella pequeña con tapa a prueba de niños. Incentive a su bebé a sujetar una sonaja en cada mano y a agitar ambas. Preste atención para ver si a su bebé le gusta más un sonido que otro.",
+            "edad": "4 a 8 meses",
+            "tipo": "extra",
+            "numero": 9
+        },
+        {
+            "id": "14",
+            "descripcion": "Coloque a su bebé sobre su barriguita con sus juguetes u objetos favoritos a su alrededor, pero ligeramente fuera de su alcance. Motívela a que trate de moverse para llegar a los juguetes.",
+            "edad": "4 a 8 meses",
+            "tipo": "extra",
+            "numero": 10
+        },
+        {
+            "id": "15",
+            "descripcion": "Llene una caja de pañuelos de papel con tiras de papel. Su bebé disfrutará mucho sacándolas de la caja. (No utilice papel de periódico ni revistas a colores ya que la tinta puede ser tóxica. No use nunca bolsas ni envoltorios de plástico.)",
+            "edad": "4 a 8 meses",
+            "tipo": "extra",
+            "numero": 11
+        },
+        {
+            "id": "16",
+            "descripcion": "Ate firmemente uno de los juguetes favoritos de su bebé al lado de su cuna (o de su mecedora o de su silla para balancearse) para que intente moverse hacia él y agarrarlo. Cambie frecuentemente los juguetes para que su bebé vea y haga cosas nuevas.",
+            "edad": "4 a 8 meses",
+            "tipo": "extra",
+            "numero": 12
+        },
+        {
+            "id": "17",
+            "descripcion": "Ponga a su bebé en una silla, en una sillita para el coche o siéntela entre almohadas para que pueda verlo/la a usted. Use una bufanda o una pelota grande para moverla lentamente enfrente de ella. Muévala hacia arriba, luego hacia abajo y después, a los lados para que su bebé pueda seguir el movimiento con los ojos.",
+            "edad": "4 a 8 meses",
+            "tipo": "extra",
+            "numero": 13
+        },
+        {
+            "id": "18",
+            "descripcion": "Con su bebé acostado sobre la espalda, coloque un juguete de manera que pueda verlo pero no tocarlo, o mueva un juguete dentro del campo visual de su bebé. Motívelo a rodar para llegar al juguete.",
+            "edad": "4 a 8 meses",
+            "tipo": "extra",
+            "numero": 14
+        },
+        {
+            "id": "19",
+            "descripcion": "Juegue a las escondidas (picabú) con las manos, un paño, o un pañal. Tápese la cara con el paño, y después deje que su bebé se esconda detrás de éste. Incentive a su bebé a jugar, pero si no puede llevarse el paño a la cara, retíreselo. Tomen turnos para esconderse.",
+            "edad": "4 a 8 meses",
+            "tipo": "extra",
+            "numero": 15
+        },
+        {
+            "id": "20",
+            "descripcion": "Siente a su bebé en una silla o en su sillita para el coche para que observe las actividades diarias que usted hace. Háblele sobre lo que usted está haciendo. Deje que su bebé vea, oiga, y toque objetos comunes. Usted puede prestar atención a su bebé mientras hace otras cosas..",
+            "edad": "4 a 8 meses",
+            "tipo": "extra",
+            "numero": 16
+        },
+        {
+            "id": "21",
+            "descripcion": "Ponga a su bebé sobre su rodilla de manera que quede mirando hacia usted. Mézala o hágala brincar mientras le canta o recita rimas infantiles. Ayude a su bebé a juntar las manos para aplaudir con el ritmo de la canción.",
+            "edad": "4 a 8 meses",
+            "tipo": "extra",
+            "numero": 17
+        },
+        {
+            "id": "22",
+            "descripcion": "A su bebé le gustará tirar juguetes al suelo. Tómese un poco de tiempo para jugar a este juego de `ir y buscar`. Esto ayudará a su bebé a aprender a soltar objetos. Ponga una caja o una cacerola enfrente de su bebé para que suelte los juguetes dentro de esta.",
+            "edad": "4 a 8 meses",
+            "tipo": "extra",
+            "numero": 18
+        },
+        {
+            "id": "23",
+            "descripcion": "Una vez que la bebé empiece rodar o a gatear sobre su barriguita, juegue `ven por mí`. Deje que su bebé se mueva, luego vaya detrás de ella, y abrácela cuando la alcance.",
+            "edad": "4 a 8 meses",
+            "tipo": "extra",
+            "numero": 19
+        },
+        {
+            "id": "24",
+            "descripcion": "Coloque a su bebé mirando hacia usted. Su bebé puede mirarlo/la mientras usted cambia sus expresiones facials (sonrisa grande, sacar la lengua, ojos que se ensanchan, arquear las cejas, dar resoplidos o soplar). Déle un turno a su bebé. Imite usted lo que haga su bebé.",
+            "edad": "4 a 8 meses",
+            "tipo": "extra",
+            "numero": 20
+        }
+    ]
+}

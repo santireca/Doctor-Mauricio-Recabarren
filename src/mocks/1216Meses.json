@@ -1,0 +1,176 @@
+{
+    "actividades": [
+        {
+            "id": "1",
+            "titulo": "A hacer ruido",
+            "descripcion": "En esta etapa, a los bebés les sigue gustando hacer ruido. Haga sonajas atando con una cuerda los anillos que se usan en las tapas de los frascos para hacer conservas. O llene pequeñas botellas como frascos de medicamento (con tapas a prueba de niños) con objetos que hagan diferentes sonidos como bolitas (canicas), arroz, sal, etc. Asegúrese de apretar firmemente las tapas.",
+            "edad": "12 a 16 meses",
+            "area": ["Socio-individual"],
+            "tipo": "principal"
+        },
+        {
+            "id": "2",
+            "titulo": "Pista de obstáculos",
+            "descripcion": "Haga una especie de carrera de obstáculos usando cajas o muebles de manera que su bebé pueda meterse, subirse, pasar por encima, por debajo o por en medio de ellos. Una caja grande puede ser un sitio magnífico para sentarse y jugar.",
+            "edad": "12 a 16 meses",
+            "area": ["Motora gruesa"],
+            "tipo": "principal"
+        },
+        {
+            "id": "3",
+            "titulo": "Adentro y afuera",
+            "descripcion": "Dele a su bebé recipientes con tapas y con diferentes compartimentos que tengan cubos u otros juguetes pequeños. Deje que su bebé quite las tapas y que vuelque o saque los juguetes. Después, enséñele como volver a poner las cosas en su sitio. Este juego le enseñará a la bebé a poner o a acomodar objetos en el lugar donde ella desea. ",
+            "edad": "12 a 16 meses",
+            "area": ["Resolución de problemas"],
+            "tipo": "principal"
+        },
+        {
+            "id": "4",
+            "titulo": "Hacer planes en voz alta",
+            "descripcion": "Establezca una rutina en casa para comer, dormir, cambiar los pañales y jugar. Hable con su bebé sobre la rutina y dígale qué actividad harán a continuación. Esto le ayudará a sentirse segura. ",
+            "edad": "12 a 16 meses",
+            "area": ["Comunicación", "Socio-individual"],
+            "tipo": "principal"
+        },
+        {
+            "id": "5",
+            "descripcion": "A los bebés les fascinan los juegos a esta edad (`Las escondidas` `Las palmaditas`, `Este cerdito`). Haga diferentes variantes de estos juegos y vea si su bebé los intenta con usted. Escóndase detrás de los muebles o puertas para jugar a las escondidas. Golpee un par de cubos o tapaderas de cacerola entre sí para jugar a las palmaditas.",
+            "edad": "12 a 16 meses",
+            "tipo": "extra",
+            "numero": 1
+        },
+        {
+            "id": "6",
+            "descripcion": "Haga títeres con un calcetín o con una bolsa de papel, uno para usted y otro para su bebé. Haga que su títere le hable a su bebé o al títere de su bebé. Incentive a su bebé a `contestar`",
+            "edad": "12 a 16 meses",
+            "tipo": "extra",
+            "numero": 2
+        },
+        {
+            "id": "7",
+            "descripcion": "Incentive a su bebé a que dé sus primeros pasos. Sujete al bebé de pie, frente a otra persona que tenga su juguete o comida favorita en las manos. Haga que su bebé camine hacia la otra persona para obtener el juguete o la comida.",
+            "edad": "12 a 16 meses",
+            "tipo": "extra",
+            "numero": 3
+        },
+        {
+            "id": "8",
+            "descripcion": "Déle a su bebé recipientes con tapas y con diferentes compartimentos que tengan cubos u otros juguetes pequeños. Deje que su bebé quite las tapas y que vuelque o saque los juguetes. Después, enséñele como volver a poner las cosas en su sitio. Este juego le enseñará a la bebé a poner o a acomodar objetos en el lugar donde ella desea.",
+            "edad": "12 a 16 meses",
+            "tipo": "extra",
+            "numero": 4
+        },
+        {
+            "id": "9",
+            "descripcion": "Envuelva holgadamente un juguete pequeño en una toalla de papel o en un pañuelo sin usar cinta. Déselo al bebé para que trate de desenvolverlo y así encontrar una sorpresa. También puede utilizar papel de china o papel para envolver, ya que ambos tienen colores llamativos y hacen ruido.",
+            "edad": "12 a 16 meses",
+            "tipo": "extra",
+            "numero": 5
+        },
+        {
+            "id": "10",
+            "descripcion": "A los bebés les gusta jugar con juguetes que se empujan o que se jalan. Haga su propio juguete para jalar uniendo cartones de yogur, carretes de hilo, o cajas pequeñas con una cuerda suave o trozo de estambre (de 2 pies o 60 centímetros de longitud) aproximadamente). Ate un anillo de plástico o cuenta en uno de los extremos para que se pueda usar como asa.",
+            "edad": "12 a 16 meses",
+            "tipo": "extra",
+            "numero": 6
+        },
+        {
+            "id": "11",
+            "descripcion": "Pegue un pedazo grande de papel para dibujar a una mesa con cinta adhesiva. Enseñe a su bebé cómo hacer garabatos cor crayones grandes que no sean tóxicos. Dibujen sobre el papel tomando turnos. También es divertido pintar con agua.",
+            "edad": "12 a 16 meses",
+            "tipo": "extra",
+            "numero": 7
+        },
+        {
+            "id": "8",
+            "descripcion": "Coloque los muebles de manera que su bebé pueda desplazarse por el cuarto pasando por los espacios abiertos que queden entre los muebles. Esto permite el desarrollo del equilibrio al caminar. ",
+            "edad": "12 a 16 meses",
+            "tipo": "extra",
+            "numero": 8
+        },
+        {
+            "id": "13",
+            "descripcion": "En esta etapa, a los bebés les sigue gustando hacer ruido. Haga sonajas atando con una cuerda los anillos que se usan en las tapas de los frascos para hacer conservas. O llene pequeñas botellas como frascos de medicamento (con tapas a prueba de niños) con objetos que hagan diferentes sonidos como bolitas (canicas), arroz, sal, etc. Asegúrese de apretar firmemente las tapas.",
+            "edad": "12 a 16 meses",
+            "tipo": "extra",
+            "numero": 9
+        },
+        {
+            "id": "14",
+            "descripcion": "¡Esta es la etapa en que su bebé aprende que los adultos pueden ser útiles! Cuando su bebé “pida” algo vocalizando o señalando con el dedo, responda a lo que pide. Nombre el objeto que su bebé quiere e incentívela a que intente comunicarse nuevamente. Hable con ella tomando turnos en una “conversación”.",
+            "edad": "12 a 16 meses",
+            "tipo": "extra",
+            "numero": 10
+        },
+        {
+            "id": "15",
+            "descripcion": "Juegue al “juego de los nombres”. Nombre partes del cuerpo, objetos comunes y gente. Esto le permite a su bebé saber que todas las cosas tienen un nombre y le ayuda a empezar a aprender estos nombres.",
+            "edad": "12 a 16 meses",
+            "tipo": "extra",
+            "numero": 11
+        },
+        {
+            "id": "16",
+            "descripcion": "Haga una especie de carrera de obstáculos usando cajas o muebles de manera que su bebé pueda meterse, subirse, pasar por encima, por debajo o por en medio de ellos. Una caja grande puede ser un sitio magnífico para sentarse y jugar.",
+            "edad": "12 a 16 meses",
+            "tipo": "extra",
+            "numero": 12
+        },
+        {
+            "id": "17",
+            "descripcion": "Deje que su bebé le ayude a limpiar. Juegue a “poner cosas en el cesto de basura” o “dárselas a mamá o papá”.",
+            "edad": "12 a 16 meses",
+            "tipo": "extra",
+            "numero": 13
+        },
+        {
+            "id": "18",
+            "descripcion": "Deje una bolsa llena de sorpresas en un lugar accesible a su bebé para que ella la encuentre por la mañana. La bolsa puede contener una toalla o una servilleta de papel, un juguete blando, algo que haga ruido, un tarro pequeño de plástico con tapa de rosca o un libro con páginas de cartón.",
+            "edad": "12 a 16 meses",
+            "tipo": "extra",
+            "numero": 14
+        },
+        {
+            "id": "19",
+            "descripcion": "Juegue al juego de “imaginemos” con un animal o muñeco de peluche. Haga que el muñeco realice diferentes acciones y dígale al bebé lo que el muñeco está haciendo (caminando, yendo a la cama, comiendo, bailando en la mesa). Vea si su bebé hace que el muñeco se mueva y si hace con el muñeco lo que usted le indica. Tomen turnos con el muñeco. ",
+            "edad": "12 a 16 meses",
+            "tipo": "extra",
+            "numero": 15
+        },
+        {
+            "id": "20",
+            "descripcion": "Corte alimentos que sean seguros para comer con los dedos (no use comidas que lo puedan sofocar o atragantar) en pedazos pequeños y deje que su bebé coma solo. Es bueno que el bebé practique tomar cosas pequeñas y entre los dedos y sentir las diferentes texturas (plátanos, galletas blandas, frutas pequeñas).",
+            "edad": "12 a 16 meses",
+            "tipo": "extra",
+            "numero": 16
+        },
+        {
+            "id": "21",
+            "descripcion": "Deje que su bebé le “ayude” durante sus tareas cotidianas. Incentive a su bebé a “traer” su vaso y su cuchara a la mesa a la hora de la comida, así como a “buscar” los zapatos y el abrigo para vestirse o a “traer” sus pantalones o pañales para que la cambie. Es importante que su bebé aprenda a seguir instrucciones.",
+            "edad": "12 a 16 meses",
+            "tipo": "extra",
+            "numero": 17
+        },
+        {
+            "id": "22",
+            "descripcion": "Su bebé está aprendiendo que distintos juguetes hacen cosas diferentes. Déle a su bebé una variedad de objetos que pueda rodar, empujar, jalar, abrazar, sacudir, golpear, amontonar, girar, y revolver.",
+            "edad": "12 a 16 meses",
+            "tipo": "extra",
+            "numero": 18
+        },
+        {
+            "id": "23",
+            "descripcion": "A la mayoría de los bebés les gusta la música. Aplauda y baile con él al son de la música. Ayude al bebé a que ejercite su equilibrio moviéndose hacia adelante, hacia atrás y dando vueltas. Tómelo de las manos para darle apoyo en caso de que sea necesario.",
+            "edad": "12 a 16 meses",
+            "tipo": "extra",
+            "numero": 19
+        },
+        {
+            "id": "24",
+            "descripcion": "Prepare a su bebé para una actividad o viaje futuro hablando con ella de la actividad o viaje de antemano. Su bebé se sentirá parte de lo que está ocurriendo en vez de ser una simple observadora. Esto también puede ayudarla a reducir su miedo o ansiedad de que la vayan a “dejar”. ",
+            "edad": "12 a 16 meses",
+            "tipo": "extra",
+            "numero": 20
+        }
+    ]
+}

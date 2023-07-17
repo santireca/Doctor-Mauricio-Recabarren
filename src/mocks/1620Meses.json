@@ -1,0 +1,176 @@
+{
+    "actividades": [
+        {
+            "id": "1",
+            "titulo": "Encuentra el juguete",
+            "descripcion": "En esta etapa, a los bebés les sigue gustando hacer ruido. Haga sonajas atando con una cuerda los anillos que se usan en las tapas de los frascos para hacer conservas. O llene pequeñas botellas como frascos de medicamento (con tapas a prueba de niños) con objetos que hagan diferentes sonidos como bolitas (canicas), arroz, sal, etc. Asegúrese de apretar firmemente las tapas.",
+            "edad": "16 a 20 meses",
+            "area": ["Socio-individual"],
+            "tipo": "principal"
+        },
+        {
+            "id": "2",
+            "titulo": "¿Qué llevamos puesto?",
+            "descripcion": "Haga una especie de carrera de obstáculos usando cajas o muebles de manera que su bebé pueda meterse, subirse, pasar por encima, por debajo o por en medio de ellos. Una caja grande puede ser un sitio magnífico para sentarse y jugar.",
+            "edad": "16 a 20 meses",
+            "area": ["Motora gruesa"],
+            "tipo": "principal"
+        },
+        {
+            "id": "3",
+            "titulo": "Burbujas de jabón",
+            "descripcion": "Dele a su bebé recipientes con tapas y con diferentes compartimentos que tengan cubos u otros juguetes pequeños. Deje que su bebé quite las tapas y que vuelque o saque los juguetes. Después, enséñele como volver a poner las cosas en su sitio. Este juego le enseñará a la bebé a poner o a acomodar objetos en el lugar donde ella desea. ",
+            "edad": "16 a 20 meses",
+            "area": ["Resolución de problemas"],
+            "tipo": "principal"
+        },
+        {
+            "id": "4",
+            "titulo": "Juego de clasificación",
+            "descripcion": "Establezca una rutina en casa para comer, dormir, cambiar los pañales y jugar. Hable con su bebé sobre la rutina y dígale qué actividad harán a continuación. Esto le ayudará a sentirse segura. ",
+            "edad": "16 a 20 meses",
+            "area": ["Comunicación", "Socio-individual"],
+            "tipo": "principal"
+        },
+        {
+            "id": "5",
+            "descripcion": "A los niños pequeños les fascina jugar en el agua. Ponga objetos que se puedan “apretar o exprimir” en la bañera, tales como esponjas o botellas de plástico flexibles. Otros juguetes interesantes son las tazas o tazones de plástico, ya que los niños pueden llenarlos y vaciarlos con el agua de la tina.",
+            "edad": "16 a 20 meses",
+            "tipo": "extra",
+            "numero": 1
+        },
+        {
+            "id": "6",
+            "descripcion": "A los niños pequeños les fascinan las burbujas. Deje que su niña forme burbujas soplando a través de una pajita (popote) o que observe cómo usted sopla las burbujas. También es divertido reventar las burbujas o perseguirlas.",
+            "edad": "16 a 20 meses",
+            "tipo": "extra",
+            "numero": 2
+        },
+        {
+            "id": "7",
+            "descripcion": "El juego de “imaginemos” se hace aún más divertido en esta etapa. Motive a su niño a que use un animal o muñeco de peluche para actuar las actividades que el niño hace diariamente, por ejemplo: caminar, ir a la cama, bailar, comer, y saltar. Incluya al muñeco en las actividades o juegos diarios",
+            "edad": "16 a 20 meses",
+            "tipo": "extra",
+            "numero": 3
+        },
+        {
+            "id": "8",
+            "descripcion": "Preparen un budín de cajita juntos. Deje que su niña pequeña le “ayude” a prepararlo ya sea vertiendo el budín, echando la leche o mezclando. El budín preparado se puede comer o se puede usar para pintar con los dedos.",
+            "edad": "16 a 20 meses",
+            "tipo": "extra",
+            "numero": 4
+        },
+        {
+            "id": "9",
+            "descripcion": "Utilice cajas o cubetas para que su niño pequeño meta almohadillas (saquitos de tela rellenos de arroz o frijoles) o pelotas. Practique con el niño cómo lanzar la pelota o la almohadilla por encima de del hombro.",
+            "edad": "16 a 20 meses",
+            "tipo": "extra",
+            "numero": 5
+        },
+        {
+            "id": "10",
+            "descripcion": "Juegue al “Escondite”. Su niña pequeña puede esconderse sola o con otra persona para que usted la busque. Después usted puede esconderse y dejar que su niña lo/la encuentre.",
+            "edad": "16 a 20 meses",
+            "tipo": "extra",
+            "numero": 6
+        },
+        {
+            "id": "11",
+            "descripcion": "A los niños pequeños les fascina moverse. Llévelo al parque para que se suba a los columpios, a las resbaladillas pequeñas o al bimbalete. Mientras el niño aprende cómo equilibrarse en estos juegos, usted puede sostenerlo entre sus piernas.",
+            "edad": "16 a 20 meses",
+            "tipo": "extra",
+            "numero": 7
+        },
+        {
+            "id": "8",
+            "descripcion": "Canten canciones en las que se usan algunas partes del cuerpo para actuar la canción tales como “Witzi, bitzi araña (La araña pequeñita)” o “El patito chiquito”. Canten la canción juntas, muévanse al ritmo y hagan las acciones de la canción. Espere a que su niña anticipe la acción.",
+            "edad": "16 a 20 meses",
+            "tipo": "extra",
+            "numero": 8
+        },
+        {
+            "id": "13",
+            "descripcion": "Ponga los juguetes favoritos de su niño en un cesto de ropa para lavar que esté ligeramente fuera de su alcance o en un recipiente transparente con una tapa ajustada. Espere a que su niño le pida los objetos con el fin de estimularlo a que se comunique. Responda a lo que le pida.",
+            "edad": "16 a 20 meses",
+            "tipo": "extra",
+            "numero": 9
+        },
+        {
+            "id": "14",
+            "descripcion": "Su niña pequeña podría estar interesada en “actividades artísticas”. Dibuje con ella utilizando crayones grandes que no sean tóxicos y un cuaderno grande. Deje que su niña haga su propio dibujo, mientras que usted hace otro También puede utilizar marcadores con punta de fieltro ya que tienen colores brillantes que pueden ser más interesantes.",
+            "edad": "16 a 20 meses",
+            "tipo": "extra",
+            "numero": 10
+        },
+        {
+            "id": "15",
+            "descripcion": "A los niños pequeños les gusta mucho jugar con carretillas o con algún bolso viejo en él que pueden meter cosas. Su niño puede practicar la acción de meter y sacar objetos, poniendo y sacando juguetes u otras cosas en la carretilla o en el bolso. También puede usarlos para guardar sus artículos favoritos. ",
+            "edad": "16 a 20 meses",
+            "tipo": "extra",
+            "numero": 11
+        },
+        {
+            "id": "16",
+            "descripcion": "Haga un libro de fotografías con su niña. Puede usar fotografías comunes y sencillas de revistas o pegar fotos de la familia. Su niña disfrutará de las fotos en las que ella salga, así como de las fotos del resto de la familia. También puede poner fotos de las mascotas.",
+            "edad": "16 a 20 meses",
+            "tipo": "extra",
+            "numero": 12
+        },
+        {
+            "id": "17",
+            "descripcion": "A los niños pequeños les interesa jugar con pelotas. Utilice una pelota inflable de playa para hacerla rodar, lanzarla, o patearla.",
+            "edad": "16 a 20 meses",
+            "tipo": "extra",
+            "numero": 13
+        },
+        {
+            "id": "18",
+            "descripcion": "Juegue al juego de “¿Qué es eso?” señalando con la mano ropa, juguetes, partes del cuerpo, objetos, o fotografías y pidiendo a su niña que nombre lo que usted señala. Si su niña no responde, nombre usted los objetos y motívela a imitar las palabras.",
+            "edad": "16 a 20 meses",
+            "tipo": "extra",
+            "numero": 14
+        },
+        {
+            "id": "19",
+            "descripcion": "Llene una tina de plástico con harina de maíz o con avena. También ponga, dentro de ésta, cucharas, coladeras, embudos, o tazas de plástico. Los niños podrán llenar los utensilios con la harina o la avena y después vaciarlos. De esta manera aprenderán cómo darles función de herramientas a diferentes objetos y también aprenderán sobre texturas. Además podrán probar la harina o la avena sin ningún riesgo a la salud.",
+            "edad": "16 a 20 meses",
+            "tipo": "extra",
+            "numero": 15
+        },
+        {
+            "id": "20",
+            "descripcion": "Los niños pequeños empezarán a tratar de ensamblar un objeto con otro. Los rompecabezas sencillos para niños (que tienen pequeñas perillas al centro de la pieza para sacarla con facilidad de su lugar) son excelentes. Otros juegos de este tipo son meter llaves en cerraduras y poner cartas en el buzón de correo.",
+            "edad": "16 a 20 meses",
+            "tipo": "extra",
+            "numero": 16
+        },
+        {
+            "id": "21",
+            "descripcion": "Consiga dos recipientes iguales (tazas de café o tazones de cereal) y un juguete pequeño. Esconda el juguete debajo de uno de los recipientes mientras su niño observa. Pregúntele, “¿dónde está?” Cuando el niño esté listo, podrá jugar al “juego de las tazas” que consiste en esconder el juguete y mover las tazas después de esconderlo.",
+            "edad": "16 a 20 meses",
+            "tipo": "extra",
+            "numero": 17
+        },
+        {
+            "id": "22",
+            "descripcion": "Ayude a su niña a clasificar objetos, agrupándolos según la categoría. Por ejemplo, ella le puede ayudar a ordenar la ropa lavada haciendo un montoncito de calcetines y otro de camisas. También pueden hacer juegos de “limpieza”. Pídale a su niña que ponga sus juguetes en estantes o cajas específicas.",
+            "edad": "16 a 20 meses",
+            "tipo": "extra",
+            "numero": 18
+        },
+        {
+            "id": "23",
+            "descripcion": "Guarde los envases de cartón de la leche, o las cajas vacías de gelatina o de budín. Su niño pequeño podrá usarlos para hacer torres poniendo los envases uno encima del otro. Usted también puede llenar las bolsas de papel del supermercado con periódico y sellarlas con cinta adhesiva para hacer bloques grandes.",
+            "edad": "16 a 20 meses",
+            "tipo": "extra",
+            "numero": 19
+        },
+        {
+            "id": "24",
+            "descripcion": "Extienda la ropa de su niña sobre la cama antes de vestirla. Pídale que le dé una camisa, pantalones, zapatos, y calcetines. Este es un método sencillo para aprender los nombres de artículos comunes.",
+            "edad": "16 a 20 meses",
+            "tipo": "extra",
+            "numero": 20
+        }
+    ]
+}

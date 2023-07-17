@@ -1,0 +1,252 @@
+{
+    "actividades": [
+        {
+            "id": "1",
+            "titulo": "Compartir es querer ",
+            "descripcion": "Establezca un lugar para jugar en la casa e invite a dos niños (hermano, hermana o amigo) a jugar con su niña. Es mejor incluir pocos niños al principio y tener varios juguetes del mismo tipo para que no tengan que compartir todo el tiempo. Los títeres o cubos son un buen juguete para esta actividad porque son propicios para que los niños jueguen juntos. Si es necesario, use un reloj con alarma para que cada niño tome turnos iguales con cada juguete.",
+            "edad": "36 a 48 meses",
+            "area": ["Socio-individual"],
+            "tipo": "principal",
+            "link": "https://agesandstages.com/wp-content/uploads/2023/05/3-year_ASQ-3-Parent-Activities_Spanish.pdf"
+        },
+        {
+            "id": "2",
+            "titulo": "A aprender números",
+            "descripcion": "Hable del número 3. Lea historias que incluyan el número 3 (Los tres chivitos, Los tres cerditos, Los tres ositos). Incentive a su niña a que cuente hasta 3 usando grupos de 3 objetos similares (piedras, cartas, cubos [bloques]). Hable de que su niña tiene 3 años de edad. Después de que su niña comprenda la idea, pase a los números 4, 5 y así sucesivamente siempre que su niña se muestre interesada. ",
+            "edad": "36 a 48 meses",
+            "area": ["Comunicación"],
+            "tipo": "principal",
+            "link": "https://agesandstages.com/wp-content/uploads/2023/05/3-year_ASQ-3-Parent-Activities_Spanish.pdf"
+        },
+        {
+            "id": "3",
+            "titulo": "Festín en el comedero",
+            "descripcion": "Haga un comedero para pájaros usando mantequilla de cacahuate y alimento para pájaros. Primero, busquen una piñita (de pino) o un pedazo de madera, úntenlo con mantequilla de cacahuate y cúbranlo con alimento para pájaros. Finalmente, cuélguenlo en un árbol o afuera de una ventana. Cuando su niño observe los pájaros que se acercan al comedero, pídale que le diga cuántos pájaros hay, de qué color son y de qué tamaño. ",
+            "edad": "36 a 48 meses",
+            "area": ["Motora fina", "Comunicación"],
+            "tipo": "principal",
+            "link": "https://agesandstages.com/wp-content/uploads/2023/05/3-year_ASQ-3-Parent-Activities_Spanish.pdf"
+        },
+        {
+            "id": "4",
+            "titulo": "Similar y diferente ",
+            "descripcion": "Saque varios objetos que le resulten familiares a su niño (cepillo, abrigo, plátano, cuchara, libro). Pida a su niño que le muestre qué objetos son para comer y qué objetos se utilizan para salir a la calle. Ayúdele a poner los objetos en grupos que tengan una correspondencia, por ejemplo, “cosas que comemos” y “cosas para vestirse.” ",
+            "edad": "36 a 48 meses",
+            "area": ["Resolución de problemas"],
+            "tipo": "principal",
+            "link": "https://agesandstages.com/wp-content/uploads/2023/05/3-year_ASQ-3-Parent-Activities_Spanish.pdf"
+        },
+        {
+            "id": "25",
+            "titulo": "Círculos por todas partes",
+            "descripcion": "Corte unos círculos grandes de papel y muéstreselos a su niña. Hable con ella sobre las cosas que hay en el mundo que tienen una forma “redonda” (una pelota, la luna). Corte los círculos por la mitad y pregúntele si puede hacer que vuelvan a ser redondos. Después, corte los círculos en tres partes, y así sucesivamente.",
+            "edad": "36 a 48 meses",
+            "area": ["Comunicación", "Resolución de problemas"],
+            "tipo": "principal",
+            "link": "https://agesandstages.com/wp-content/uploads/2023/05/42-month_ASQ-3-Parent-Activities_Spanish.pdf"
+        },
+        {
+            "id": "26",
+            "titulo": "A vestirse",
+            "descripcion": "Cuando su niña se esté vistiendo, motívela a que practique cómo abrochar y desabrochar los botones y subir y bajar los cierres (cremalleras). Haga un juego, mostrándole a su niña cómo los botones aparecen y desaparecen al abotonarlos o desabotonarlos, o hágale imaginar que el cierre es un tren pequeñito “que sube y baja” por la vía.",
+            "edad": "36 a 48 meses",
+            "area": ["Socio-individual", "Motora fina"],
+            "tipo": "principal",
+            "link": "https://agesandstages.com/wp-content/uploads/2023/05/42-month_ASQ-3-Parent-Activities_Spanish.pdf"
+        },
+        {
+            "id": "27",
+            "titulo": "Simón dice",
+            "descripcion": "Durante el baño, juegue a “Simón dice” para enseñarle a su niño los nombres de las partes del cuerpo. Primero, usted puede ser “Simón” y ayudar a su niño a lavarse la parte del cuerpo que “Simón diga”. Después deje que su niño sea “Simón”. Asegúrese de nombrar cada una de las partes del cuerpo a medida que la lave y dele a su niño la oportunidad de lavarse solito.",
+            "edad": "36 a 48 meses",
+            "area": ["Socio-individual", "Comunicación"],
+            "tipo": "principal",
+            "link": "https://agesandstages.com/wp-content/uploads/2023/05/42-month_ASQ-3-Parent-Activities_Spanish.pdf"
+        },
+        {
+            "id": "28",
+            "titulo": "Volteretas con tela",
+            "descripcion": "Haga algunas bufandas largas con tela que le haya quedado de algún proyecto, vestidos o camisas viejas. Tome la tela o ropa y rásguela para cortar pedazos largos. Después tome el pedazo de tela y dele vueltas, corra y brinque.",
+            "edad": "36 a 48 meses",
+            "area": ["Motora fina", "Motora gruesa"],
+            "tipo": "principal",
+            "link": "https://agesandstages.com/wp-content/uploads/2023/05/42-month_ASQ-3-Parent-Activities_Spanish.pdf"
+        },
+        {
+            "id": "29",
+            "titulo": "¿Qué nos pertenece?",
+            "descripcion": "Cuando ponga la mesa para comer, juegue al juego de “qué es lo que no pertenece aquí”. Coloque un juguete pequeño u otro objeto al lado del plato y los cubiertos. Vea si su niña puede decirle qué objeto no se usa en la mesa. Usted puede hacer este juego a cualquier hora del día. Por ejemplo, cuando le vaya a cepillar el pelo, ponga un cepillo, un broche para el pelo, un peine, y una pelota en la mesa.",
+            "edad": "36 a 48 meses",
+            "area": ["Resolución de problemas"],
+            "tipo": "principal",
+            "link": "https://agesandstages.com/wp-content/uploads/2023/05/4-year_ASQ-3-Parent-Activities_Spanish.pdf"
+        },
+        {
+            "id": "30",
+            "titulo": "Baloncesto de cubeta",
+            "descripcion": "Juegue al “baloncesto de cubeta”. Ponga a su niño de pie a una distancia de unos 6 pies (2 metros) de una cubeta grande o de un cesto para la basura, y pídale que tire una pelota de tamaño mediano para intentar hacer una “canasta”. Para hacer este juego más divertido en el verano, llene la cubeta de agua afuera. ",
+            "edad": "36 a 48 meses",
+            "area": ["Motora gruesa"],
+            "tipo": "principal",
+            "link": "https://agesandstages.com/wp-content/uploads/2023/05/4-year_ASQ-3-Parent-Activities_Spanish.pdf"
+        },
+        {
+            "id": "31",
+            "titulo": "¿Cómo te llamas?",
+            "descripcion": "Escriba el nombre de su niña con frecuencia. Cuando ella termine de hacer un dibujo, asegúrese de escribir su nombre en el dibujo, y de nombrar las letras en voz alta a medida que las vaya escribiendo. Si su niña muestra interés, motívela a nombrar y/o a copiar las letras. A lo largo del día, señálele las letras de su nombre en las cajas de cereal, en carteles, y en libros. ",
+            "edad": "36 a 48 meses",
+            "area": ["Comunicación"],
+            "tipo": "principal",
+            "link": "https://agesandstages.com/wp-content/uploads/2023/05/4-year_ASQ-3-Parent-Activities_Spanish.pdf"
+        },
+        {
+            "id": "32",
+            "titulo": "Mi zapatería",
+            "descripcion": "En un día lluvioso, imagínense que van a abrir una zapatería. Use unos zapatos viejos, papel, lápices, y una silla para sentarse y probarse los zapatos. Usted puede ser el/la cliente. Dígale a su niña que apunte su “pedido” en un papel. Después, ella puede venir a probarse y a “comprar” zapatos. Este es un buen juego para practicar cómo probarse cosas y comprar. ",
+            "edad": "36 a 48 meses",
+            "area": ["Motora fina", "Socio-individual"],
+            "tipo": "principal",
+            "link": "https://agesandstages.com/wp-content/uploads/2023/05/4-year_ASQ-3-Parent-Activities_Spanish.pdf"
+        },
+        {
+            "id": "5",
+            "descripcion": "Haga un álbum de recuerdos “sobre mi niña”. Incluya fotos de la familia, hojas de árbol, fotos de revistas de una de las comidas favoritas de su niña y dibujos que ella haga. Ponga estas cosas en un álbum de fotos o péguelas a hojas de papel y engrápelas para crear su propio álbum de recuerdos",
+            "edad": "36 a 48 meses",
+            "tipo": "extra",
+            "numero": 1
+        },
+        {
+            "id": "6",
+            "descripcion": "Haga un comedero para pájaros usando mantequilla de cacahuate y alimento para pájaros. Primero, busquen una piñita (de pino) o un pedazo de madera, úntenlo con mantequilla de cacahuate y rocíenlo con el alimento para pájaros. Finalmente, cuélguenlo en un árbol o afuera de una ventana. Cuando su niño observe los pájaros que se acercan al comedero, pídale que le diga cuántos pájaros hay, de qué color son y de qué tamaño.",
+            "edad": "36 a 48 meses",
+            "tipo": "extra",
+            "numero": 2
+        },
+        {
+            "id": "7",
+            "descripcion": "Cultive una planta con su niña. Llenen tres cuartos de un vasito desechable de papel con tierra y después coloque algunas semillas. Elija semillas que broten rápidamente como frijoles o arvejas. Finalmente, cubran las semillas con tierra para que queden 1/2 pulgada debajo de la tierra. Coloque el vasito en una repisa soleada cerca de la ventana y motive a su niña a regar la planta y a verla crecer.",
+            "edad": "36 a 48 meses",
+            "tipo": "extra",
+            "numero": 3
+        },
+        {
+            "id": "8",
+            "descripcion": "Antes de ir a la cama, miren juntos una revista o un libro para niños. Pida a su niño que señale las fotografías cuando usted las nombre como, por ejemplo “¿Dónde está el camión?” Juegue con el niño y pídale que señale las fotografías con el codo o con el pie. Pídale que le muestre algo que sea redondo o algo que se mueva rápido.",
+            "edad": "36 a 48 meses",
+            "tipo": "extra",
+            "numero": 4
+        },
+        {
+            "id": "9",
+            "descripcion": "Jueguen a emparejar dos fotografías que sean iguales. Primero haga dos conjuntos de 10 ó más fotografías. Cada conjunto debe incluir las mismas fotografías, es decir el segundo conjunto debe ser una réplica del primero. Usted puede usar las fotografías de dos ejemplares de la misma revista o las cartas de una baraja. Coloque las fotografías boca arriba y pida a su niña que encuentre dos que sean iguales. Comience con dos conjuntos de fotografías y añada más gradualmente.",
+            "edad": "36 a 48 meses",
+            "tipo": "extra",
+            "numero": 5
+        },
+        {
+            "id": "10",
+            "descripcion": "Durante la preparación de alimentos o la cena, pueden jugar a ver quién tiene “más o menos” cantidad de un alimento. Pregúntele a su niño quién tiene más “papas” o quién tiene menos. También pueden hacer este juego observando la cantidad de líquido que hay en una taza o vaso. Use dos vasos o tazas iguales y llénelos de jugo o leche, después pregúntele quién tiene más o menos jugo. ",
+            "edad": "36 a 48 meses",
+            "tipo": "extra",
+            "numero": 6
+        },
+        {
+            "id": "11",
+            "descripcion": "Corte unos círculos grandes de papel y muéstreselos a su niña. Hable con ella sobre las cosas que hay en el mundo que tienen una forma “redonda” (una pelota, la luna). Corte los círculos por la mitad y pregúntele si puede hacer que vuelvan a ser redondos. Después, corte los círculos en tres partes, y así sucesivamente.",
+            "edad": "36 a 48 meses",
+            "tipo": "extra",
+            "numero": 7
+        },
+        {
+            "id": "8",
+            "descripcion": "Durante el baño, juegue a “Simón dice” para enseñarle a su niño los nombres de las partes del cuerpo. Primero, usted puede ser “Simón” y ayudar a su niño a lavarse la parte del cuerpo que “Simón diga”. Después deje que su niño sea “Simón”. Asegúrese de nombrar cada una de las partes del cuerpo a medida que la lave y déle a su niño la oportunidad de lavarse solito.",
+            "edad": "36 a 48 meses",
+            "tipo": "extra",
+            "numero": 8
+        },
+        {
+            "id": "13",
+            "descripcion": "Hable del número 3. Lea historias que incluyan el número 3 (Los tres chivitos, Los tres cerditos, Los tres ositos). Incentive a su niña a que cuente hasta 3 usando grupos de 3 objetos similares (piedras, cartas, cubos [bloques]). Hable de que su niña tiene 3 años de edad. Después de que su niña comprenda la idea, pase a los números 4, 5 y así sucesivamente siempre que su niña se muestre interesada.",
+            "edad": "36 a 48 meses",
+            "tipo": "extra",
+            "numero": 9
+        },
+        {
+            "id": "14",
+            "descripcion": "Saque varios objetos que le resulten familiares a su niño (cepillo, abrigo, plátano, cuchara, libro). Pida a su niño que le muestre qué objetos son para comer y qué objetos se utilizan para salir a la calle. Ayúdele a poner los objetos en grupos que tengan una correspondencia, por ejemplo, “cosas que comemos” y “cosas para vestirse”.",
+            "edad": "36 a 48 meses",
+            "tipo": "extra",
+            "numero": 10
+        },
+        {
+            "id": "15",
+            "descripcion": "Cuando su niña se esté vistiendo, motívela a que practique cómo abrochar y desabrochar los botones y subir y bajar los cierres (cremalleras). Haga un juego, mostrándole a su niña cómo los botones aparecen y desaparecen al abotonarlos o desabotonarlos, o hágale imaginar que el cierre es un tren pequeñito “que sube y baja” por la vía.",
+            "edad": "36 a 48 meses",
+            "tipo": "extra",
+            "numero": 11
+        },
+        {
+            "id": "16",
+            "descripcion": "Practique cómo seguir instrucciones. Pídale a su niño que haga acciones que sean cómicas o un tanto absurdas, por ejemplo, pídale que “toque su codo y después que corra en círculos” o que “busque un libro y lo ponga sobre su cabeza”. Déle dos o tres instrucciones seguidas para que él las haga una detrás de la otra.",
+            "edad": "36 a 48 meses",
+            "tipo": "extra",
+            "numero": 12
+        },
+        {
+            "id": "17",
+            "descripcion": "Establezca un lugar para jugar en la casa e invite a dos niños (hermano, hermana o amigo) a jugar con su niña. Es mejor incluir pocos niños al principio y tener varios juguetes del mismo tipo para que no tengan que compartir todo el tiempo. Los títeres o cubos son un buen juguete para esta actividad porque son propicios para que los niños jueguen juntos. Si es necesario, use un reloj con alarma para que cada niño tome turnos iguales con cada juguete",
+            "edad": "36 a 48 meses",
+            "tipo": "extra",
+            "numero": 13
+        },
+        {
+            "id": "18",
+            "descripcion": "Escuchen sonidos juntos. Busque un lugar cómodo y acogedor para sentarse con su niño. Permanezcan callados un momento para escuchar los sonidos alrededor. Traten de identificar todos los sonidos que oigan y pídale a su niño que le diga si los sonidos que escucha son fuertes o suaves. Intente hacer esta actividad dentro y fuera de su casa",
+            "edad": "36 a 48 meses",
+            "tipo": "extra",
+            "numero": 14
+        },
+        {
+            "id": "19",
+            "descripcion": "Haga un “caminito de aventuras afuera de la casa. Construya este caminito con una manguera, una cuerda, o un pedazo de tiza. Estire la manguera o cuerda o dibuje el caminito siguiendo el contorno de la casa, el contorno de los árboles, o si tienen una banquita, pase la cuerda por debajo de ésta. Camine con su niña a lo largo del camino y ya que pueda hacerlo sola, haga un nuevo camino, o pídale a su niña que ella cree uno nuevo.",
+            "edad": "36 a 48 meses",
+            "tipo": "extra",
+            "numero": 15
+        },
+        {
+            "id": "20",
+            "descripcion": "Busque pedazos grandes de papel o cartón para que dibuje su niño. Usando crayones, lápices de colores, o marcadores, pídale a su niño que dibuje algo y usted copie lo mismo que él ha dibujado. Después, incentívelo a copiar los dibujos que usted haga, por ejemplo, círculos o líneas rectas.",
+            "edad": "36 a 48 meses",
+            "tipo": "extra",
+            "numero": 16
+        },
+        {
+            "id": "21",
+            "descripcion": "Cuando le esté leyendo o contando una historia que le sea familiar a su niña antes de ir a dormir, haga una pausa y deje fuera una palabra. Espere a que su niña le diga la palabra que falta.",
+            "edad": "36 a 48 meses",
+            "tipo": "extra",
+            "numero": 17
+        },
+        {
+            "id": "22",
+            "descripcion": "Haga un collar que se pueda comer, ensartando cereales en forma de anillo como “Cheerios” o “Froot Loops” en un trozo de hilo o estambre. Envuelva un extremo de un trozo de estambre con cinta adhesiva para crear una especie de aguja y facilitar que su niño ensarte el cereal.",
+            "edad": "36 a 48 meses",
+            "tipo": "extra",
+            "numero": 18
+        },
+        {
+            "id": "23",
+            "descripcion": "Escuche y baile al son de la música con su niña. Usted puede parar la música durante un momento y jugar al juego de “quedarse inmóvil”, en el que todos se “quedan inmóviles” o paralizados hasta que la música vuelva a empezar. Intente “quedarse inmóvil” en posiciones cómicas para divertirse.",
+            "edad": "36 a 48 meses",
+            "tipo": "extra",
+            "numero": 19
+        },
+        {
+            "id": "24",
+            "descripcion": "Haga bufandas largas con retazos de tela, vestidos viejos, o camisas viejas. Use telas ligeras y rompa o córtelas en pedazos largos. Después, juegue con su niño sujetando un extremo de una bufanda y dándole vueltas o corriendo y saltando con él.",
+            "edad": "36 a 48 meses",
+            "tipo": "extra",
+            "numero": 20
+        }
+    ]
+}
