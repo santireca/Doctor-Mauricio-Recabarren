@@ -11,7 +11,7 @@ export default function EdadPage (){
             <section className="flex flex-col my-auto items-center justify-center min-h-screen home-dark bg-fixed bg-gradient-to-t from-blue-200 to-blue-400 dark:bg-gradient-to-t dark:from-slate-900 dark:to-indigo-950 gap-10 py-10 sm:py-6">
                 <h1 className="text-5xl font-bold py-2 text-blue-800 dark:text-blue-600 sm-m:text-4xl sm:text-2xl ">Seleccione la edad</h1>
                 <div className=" flex flex-wrap justify-center gap-10">
-                    <Link href={'/unAnio'}>
+                    <Link href={'/unAnio'} id="cinco">
                         <div className=" flex flex-col items-center bg-white bg-opacity-70 shadow-lg backdrop-filter backdrop-blur-md border border-opacity-18 p-5 rounded-md w-[300px] h-[485px] cursor-pointer hover:scale-105 transition duration-300 laptop:w-[250px] laptop:h-[382px] sm-m:w-[250px] sm-m:h-[382px] sm:w-[250px] sm:h-[382px]">
                             <h2 className=" text-3xl text-indigo-800 font-semibold mb-10 laptop:mb-5 sm-m:mb-5 sm:mb-5">0 a 1 año</h2>
                             <img src="https://res.cloudinary.com/dreso9ye9/image/upload/v1687579934/chupete_ikqayw.png" alt="" className=" w-64 mb-10 grayscale hover:grayscale-0 laptop:w-[214px] laptop:mb-5 sm-m:mb-5 sm-m:grayscale-0 sm:mb-5 sm:grayscale-0"/>
